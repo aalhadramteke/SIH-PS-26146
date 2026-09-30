@@ -1,0 +1,3449 @@
+[
+  {
+    "txid": "66eccb4071bf61c400d0cfceabd87c0cd15222bffc9628a947d4766c5d529d26",
+    "timestamp": "2024-01-01T00:10:00Z",
+    "block_height": 850001,
+    "inputs": [
+      {
+        "address": "3bb5d34a5edbca5c83d3839251aef73d66",
+        "address_type": "p2sh",
+        "cluster_id": "cluster-bb5d34a5"
+      }
+    ],
+    "outputs": [
+      {
+        "address": "12a5afd23e8f7638f77efd27e848986bf1",
+        "address_type": "p2pkh",
+        "cluster_id": "cluster-2a5afd23"
+      },
+      {
+        "address": "12a5afd23e8f7638f77efd27e848986bf1",
+        "address_type": "p2pkh",
+        "cluster_id": "cluster-2a5afd23"
+      },
+      {
+        "address": "bc1p2a5afd23e8f7638f77efd27e848986bf1",
+        "address_type": "taproot",
+        "cluster_id": "cluster-2a5afd23"
+      }
+    ],
+    "input_value_sats": 2156629,
+    "output_value_sats": 2154301,
+    "fee_sats": 2328,
+    "scenario": "normal",
+    "labels": [
+      "normal"
+    ],
+    "metadata": {
+      "generator_seed": 42,
+      "generator_index": 1,
+      "input_count": 1,
+      "output_count": 3,
+      "output_values_sats": [
+        718101,
+        718100,
+        718100
+      ]
+    }
+  },
+  {
+    "txid": "6e56b69fa6a9779e695d95f1df10e92fb4b67a7ae8931ce157a5c8c0ad56fdf0",
+    "timestamp": "2024-01-01T00:20:00Z",
+    "block_height": 850002,
+    "inputs": [
+      {
+        "address": "1de181de26280c2ca6314051f5c5bbd373",
+        "address_type": "p2pkh",
+        "cluster_id": "cluster-de181de2"
+      }
+    ],
+    "outputs": [
+      {
+        "address": "3ac89b4fbb00764658d0fa101e9185c77b",
+        "address_type": "p2sh",
+        "cluster_id": "cluster-ac89b4fb"
+      },
+      {
+        "address": "bc1pac89b4fbb00764658d0fa101e9185c77b",
+        "address_type": "taproot",
+        "cluster_id": "cluster-ac89b4fb"
+      }
+    ],
+    "input_value_sats": 1936473,
+    "output_value_sats": 1934068,
+    "fee_sats": 2405,
+    "scenario": "normal",
+    "labels": [
+      "normal"
+    ],
+    "metadata": {
+      "generator_seed": 42,
+      "generator_index": 2,
+      "input_count": 1,
+      "output_count": 2,
+      "output_values_sats": [
+        967034,
+        967034
+      ]
+    }
+  },
+  {
+    "txid": "b1a1900f79341f0cfcc28f33bf82fbefcd9811b3e8cc6a849f850b95f08a91d1",
+    "timestamp": "2024-01-01T00:30:00Z",
+    "block_height": 850003,
+    "inputs": [
+      {
+        "address": "3f3d54209f872c92448c4c5c8da50dfc0e",
+        "address_type": "p2sh",
+        "cluster_id": "cluster-f3d54209"
+      },
+      {
+        "address": "bc1pf3d54209f872c92448c4c5c8da50dfc0e",
+        "address_type": "taproot",
+        "cluster_id": "cluster-f3d54209"
+      },
+      {
+        "address": "bc1qf3d54209f872c92448c4c5c8da50dfc0e",
+        "address_type": "bech32",
+        "cluster_id": "cluster-f3d54209"
+      },
+      {
+        "address": "bc1qf3d54209f872c92448c4c5c8da50dfc0e",
+        "address_type": "bech32",
+        "cluster_id": "cluster-f3d54209"
+      },
+      {
+        "address": "3f3d54209f872c92448c4c5c8da50dfc0e",
+        "address_type": "p2sh",
+        "cluster_id": "cluster-f3d54209"
+      },
+      {
+        "address": "3f3d54209f872c92448c4c5c8da50dfc0e",
+        "address_type": "p2sh",
+        "cluster_id": "cluster-f3d54209"
+      }
+    ],
+    "outputs": [
+      {
+        "address": "bc1qe025efd29720840151293fd824e55b310",
+        "address_type": "bech32",
+        "cluster_id": "cluster-e025efd2"
+      },
+      {
+        "address": "1e025efd29720840151293fd824e55b310",
+        "address_type": "p2pkh",
+        "cluster_id": "cluster-e025efd2"
+      }
+    ],
+    "input_value_sats": 93897,
+    "output_value_sats": 73046,
+    "fee_sats": 20851,
+    "scenario": "anomalous",
+    "labels": [
+      "anomalous",
+      "high_fee_rate"
+    ],
+    "metadata": {
+      "generator_seed": 42,
+      "generator_index": 3,
+      "input_count": 6,
+      "output_count": 2,
+      "output_values_sats": [
+        36523,
+        36523
+      ]
+    }
+  },
+  {
+    "txid": "7338395f0dae1da0e62fc36ead5fabb8c598c5a02e87e3046407aad6fa82a93b",
+    "timestamp": "2024-01-01T00:40:00Z",
+    "block_height": 850004,
+    "inputs": [
+      {
+        "address": "bc1q8286e50a2963a29c713ed0f08dda6749c",
+        "address_type": "bech32",
+        "cluster_id": "cluster-8286e50a"
+      },
+      {
+        "address": "bc1q8286e50a2963a29c713ed0f08dda6749c",
+        "address_type": "bech32",
+        "cluster_id": "cluster-8286e50a"
+      }
+    ],
+    "outputs": [
+      {
+        "address": "11b4045d8649125ecd9d2928baffad341d",
+        "address_type": "p2pkh",
+        "cluster_id": "cluster-1b4045d8"
+      },
+      {
+        "address": "bc1p1b4045d8649125ecd9d2928baffad341d",
+        "address_type": "taproot",
+        "cluster_id": "cluster-1b4045d8"
+      }
+    ],
+    "input_value_sats": 3118779,
+    "output_value_sats": 3111337,
+    "fee_sats": 7442,
+    "scenario": "normal",
+    "labels": [
+      "normal"
+    ],
+    "metadata": {
+      "generator_seed": 42,
+      "generator_index": 4,
+      "input_count": 2,
+      "output_count": 2,
+      "output_values_sats": [
+        1555669,
+        1555668
+      ]
+    }
+  },
+  {
+    "txid": "2279e733695f52a444a28c5127c189ded4adc6877446fe123786dd260afeafc2",
+    "timestamp": "2024-01-01T00:50:00Z",
+    "block_height": 850005,
+    "inputs": [
+      {
+        "address": "bc1q426c2cae6db088f4f04c32fa042c06715",
+        "address_type": "bech32",
+        "cluster_id": "cluster-426c2cae"
+      },
+      {
+        "address": "3426c2cae6db088f4f04c32fa042c06715",
+        "address_type": "p2sh",
+        "cluster_id": "cluster-426c2cae"
+      }
+    ],
+    "outputs": [
+      {
+        "address": "1507e53ecde4cf439ca2505822429cca07",
+        "address_type": "p2pkh",
+        "cluster_id": "cluster-507e53ec"
+      },
+      {
+        "address": "1507e53ecde4cf439ca2505822429cca07",
+        "address_type": "p2pkh",
+        "cluster_id": "cluster-507e53ec"
+      }
+    ],
+    "input_value_sats": 4733753,
+    "output_value_sats": 4730852,
+    "fee_sats": 2901,
+    "scenario": "normal",
+    "labels": [
+      "normal"
+    ],
+    "metadata": {
+      "generator_seed": 42,
+      "generator_index": 5,
+      "input_count": 2,
+      "output_count": 2,
+      "output_values_sats": [
+        2365426,
+        2365426
+      ]
+    }
+  },
+  {
+    "txid": "b48c3440a8349388045f797091889fe480ccc341be3c54c25b3821da3e7f9d73",
+    "timestamp": "2024-01-01T01:00:00Z",
+    "block_height": 850006,
+    "inputs": [
+      {
+        "address": "1239ccb94cacd0efd6a21286f9deaa2a79",
+        "address_type": "p2pkh",
+        "cluster_id": "cluster-239ccb94"
+      },
+      {
+        "address": "bc1p239ccb94cacd0efd6a21286f9deaa2a79",
+        "address_type": "taproot",
+        "cluster_id": "cluster-239ccb94"
+      },
+      {
+        "address": "bc1q239ccb94cacd0efd6a21286f9deaa2a79",
+        "address_type": "bech32",
+        "cluster_id": "cluster-239ccb94"
+      },
+      {
+        "address": "bc1p239ccb94cacd0efd6a21286f9deaa2a79",
+        "address_type": "taproot",
+        "cluster_id": "cluster-239ccb94"
+      },
+      {
+        "address": "bc1q239ccb94cacd0efd6a21286f9deaa2a79",
+        "address_type": "bech32",
+        "cluster_id": "cluster-239ccb94"
+      }
+    ],
+    "outputs": [
+      {
+        "address": "34cbbf46b757ff7cdc042ba1ed9ff24f7a",
+        "address_type": "p2sh",
+        "cluster_id": "cluster-4cbbf46b"
+      }
+    ],
+    "input_value_sats": 126566,
+    "output_value_sats": 76054,
+    "fee_sats": 50512,
+    "scenario": "anomalous",
+    "labels": [
+      "anomalous",
+      "high_fee_rate"
+    ],
+    "metadata": {
+      "generator_seed": 42,
+      "generator_index": 6,
+      "input_count": 5,
+      "output_count": 1,
+      "output_values_sats": [
+        76054
+      ]
+    }
+  },
+  {
+    "txid": "3f591bdf96f7aaa9e3bab8078387936cbb093002ea00c2b935d88e35b666e08f",
+    "timestamp": "2024-01-01T01:10:00Z",
+    "block_height": 850007,
+    "inputs": [
+      {
+        "address": "bc1q4277a705e917f1acdbbefc747a5c0cf9e",
+        "address_type": "bech32",
+        "cluster_id": "cluster-4277a705"
+      }
+    ],
+    "outputs": [
+      {
+        "address": "1514be4b9e888302c08b9691a6f37e336d",
+        "address_type": "p2pkh",
+        "cluster_id": "cluster-514be4b9"
+      },
+      {
+        "address": "3514be4b9e888302c08b9691a6f37e336d",
+        "address_type": "p2sh",
+        "cluster_id": "cluster-514be4b9"
+      }
+    ],
+    "input_value_sats": 13922764,
+    "output_value_sats": 13920906,
+    "fee_sats": 1858,
+    "scenario": "peeling-chain",
+    "labels": [
+      "peeling_chain",
+      "change_output"
+    ],
+    "metadata": {
+      "generator_seed": 42,
+      "generator_index": 7,
+      "input_count": 1,
+      "output_count": 2,
+      "output_values_sats": [
+        6960453,
+        6960453
+      ]
+    }
+  },
+  {
+    "txid": "07f21831f5745f400ff929c82fba6f97bad3e36cc6d378d76324ab474d56dbf6",
+    "timestamp": "2024-01-01T01:20:00Z",
+    "block_height": 850008,
+    "inputs": [
+      {
+        "address": "37583d1469af79a7988120b2f2ddb6b29e",
+        "address_type": "p2sh",
+        "cluster_id": "cluster-7583d146"
+      },
+      {
+        "address": "bc1q7583d1469af79a7988120b2f2ddb6b29e",
+        "address_type": "bech32",
+        "cluster_id": "cluster-7583d146"
+      },
+      {
+        "address": "17583d1469af79a7988120b2f2ddb6b29e",
+        "address_type": "p2pkh",
+        "cluster_id": "cluster-7583d146"
+      },
+      {
+        "address": "37583d1469af79a7988120b2f2ddb6b29e",
+        "address_type": "p2sh",
+        "cluster_id": "cluster-7583d146"
+      }
+    ],
+    "outputs": [
+      {
+        "address": "14e5df8208e3fe332e42368363287c16f1",
+        "address_type": "p2pkh",
+        "cluster_id": "cluster-4e5df820"
+      },
+      {
+        "address": "bc1q4e5df8208e3fe332e42368363287c16f1",
+        "address_type": "bech32",
+        "cluster_id": "cluster-4e5df820"
+      }
+    ],
+    "input_value_sats": 100249,
+    "output_value_sats": 44867,
+    "fee_sats": 55382,
+    "scenario": "anomalous",
+    "labels": [
+      "anomalous",
+      "high_fee_rate"
+    ],
+    "metadata": {
+      "generator_seed": 42,
+      "generator_index": 8,
+      "input_count": 4,
+      "output_count": 2,
+      "output_values_sats": [
+        22434,
+        22433
+      ]
+    }
+  },
+  {
+    "txid": "8d7d91cf5014f43c14a8b803efa021c60ca00d0a1b7bba8b2084b8a75fae8b91",
+    "timestamp": "2024-01-01T01:30:00Z",
+    "block_height": 850009,
+    "inputs": [
+      {
+        "address": "bc1q47f7ddb75a3b5542ee98e78760533b1cc",
+        "address_type": "bech32",
+        "cluster_id": "cluster-47f7ddb7"
+      },
+      {
+        "address": "347f7ddb75a3b5542ee98e78760533b1cc",
+        "address_type": "p2sh",
+        "cluster_id": "cluster-47f7ddb7"
+      },
+      {
+        "address": "bc1p47f7ddb75a3b5542ee98e78760533b1cc",
+        "address_type": "taproot",
+        "cluster_id": "cluster-47f7ddb7"
+      },
+      {
+        "address": "bc1p47f7ddb75a3b5542ee98e78760533b1cc",
+        "address_type": "taproot",
+        "cluster_id": "cluster-47f7ddb7"
+      },
+      {
+        "address": "bc1p47f7ddb75a3b5542ee98e78760533b1cc",
+        "address_type": "taproot",
+        "cluster_id": "cluster-47f7ddb7"
+      },
+      {
+        "address": "347f7ddb75a3b5542ee98e78760533b1cc",
+        "address_type": "p2sh",
+        "cluster_id": "cluster-47f7ddb7"
+      },
+      {
+        "address": "bc1q47f7ddb75a3b5542ee98e78760533b1cc",
+        "address_type": "bech32",
+        "cluster_id": "cluster-47f7ddb7"
+      },
+      {
+        "address": "347f7ddb75a3b5542ee98e78760533b1cc",
+        "address_type": "p2sh",
+        "cluster_id": "cluster-47f7ddb7"
+      },
+      {
+        "address": "347f7ddb75a3b5542ee98e78760533b1cc",
+        "address_type": "p2sh",
+        "cluster_id": "cluster-47f7ddb7"
+      }
+    ],
+    "outputs": [
+      {
+        "address": "bc1q7edf6255e05197efbb8be4291c6219bea",
+        "address_type": "bech32",
+        "cluster_id": "cluster-7edf6255"
+      },
+      {
+        "address": "bc1p7edf6255e05197efbb8be4291c6219bea",
+        "address_type": "taproot",
+        "cluster_id": "cluster-7edf6255"
+      },
+      {
+        "address": "bc1p7edf6255e05197efbb8be4291c6219bea",
+        "address_type": "taproot",
+        "cluster_id": "cluster-7edf6255"
+      },
+      {
+        "address": "bc1q7edf6255e05197efbb8be4291c6219bea",
+        "address_type": "bech32",
+        "cluster_id": "cluster-7edf6255"
+      },
+      {
+        "address": "37edf6255e05197efbb8be4291c6219bea",
+        "address_type": "p2sh",
+        "cluster_id": "cluster-7edf6255"
+      },
+      {
+        "address": "37edf6255e05197efbb8be4291c6219bea",
+        "address_type": "p2sh",
+        "cluster_id": "cluster-7edf6255"
+      }
+    ],
+    "input_value_sats": 2281144,
+    "output_value_sats": 2269852,
+    "fee_sats": 11292,
+    "scenario": "mixing-like",
+    "labels": [
+      "mixing_like",
+      "many_inputs",
+      "many_outputs"
+    ],
+    "metadata": {
+      "generator_seed": 42,
+      "generator_index": 9,
+      "input_count": 9,
+      "output_count": 6,
+      "output_values_sats": [
+        378309,
+        378309,
+        378309,
+        378309,
+        378308,
+        378308
+      ]
+    }
+  },
+  {
+    "txid": "6cba0a0e23b928397befc70b38fe873800e4ab4ebce69082b0fd1d5eff636e52",
+    "timestamp": "2024-01-01T01:40:00Z",
+    "block_height": 850010,
+    "inputs": [
+      {
+        "address": "32daeb6a804a457ba640650728c55b7f4a",
+        "address_type": "p2sh",
+        "cluster_id": "cluster-2daeb6a8"
+      },
+      {
+        "address": "bc1p2daeb6a804a457ba640650728c55b7f4a",
+        "address_type": "taproot",
+        "cluster_id": "cluster-2daeb6a8"
+      },
+      {
+        "address": "12daeb6a804a457ba640650728c55b7f4a",
+        "address_type": "p2pkh",
+        "cluster_id": "cluster-2daeb6a8"
+      },
+      {
+        "address": "bc1p2daeb6a804a457ba640650728c55b7f4a",
+        "address_type": "taproot",
+        "cluster_id": "cluster-2daeb6a8"
+      },
+      {
+        "address": "bc1p2daeb6a804a457ba640650728c55b7f4a",
+        "address_type": "taproot",
+        "cluster_id": "cluster-2daeb6a8"
+      },
+      {
+        "address": "bc1p2daeb6a804a457ba640650728c55b7f4a",
+        "address_type": "taproot",
+        "cluster_id": "cluster-2daeb6a8"
+      }
+    ],
+    "outputs": [
+      {
+        "address": "bc1q1b4c1ce0c31ca0b50a2ad5f7ac3ccc8c5",
+        "address_type": "bech32",
+        "cluster_id": "cluster-1b4c1ce0"
+      },
+      {
+        "address": "11b4c1ce0c31ca0b50a2ad5f7ac3ccc8c5",
+        "address_type": "p2pkh",
+        "cluster_id": "cluster-1b4c1ce0"
+      },
+      {
+        "address": "11b4c1ce0c31ca0b50a2ad5f7ac3ccc8c5",
+        "address_type": "p2pkh",
+        "cluster_id": "cluster-1b4c1ce0"
+      },
+      {
+        "address": "bc1q1b4c1ce0c31ca0b50a2ad5f7ac3ccc8c5",
+        "address_type": "bech32",
+        "cluster_id": "cluster-1b4c1ce0"
+      },
+      {
+        "address": "bc1q1b4c1ce0c31ca0b50a2ad5f7ac3ccc8c5",
+        "address_type": "bech32",
+        "cluster_id": "cluster-1b4c1ce0"
+      }
+    ],
+    "input_value_sats": 1424307,
+    "output_value_sats": 1419803,
+    "fee_sats": 4504,
+    "scenario": "mixing-like",
+    "labels": [
+      "mixing_like",
+      "many_inputs",
+      "many_outputs"
+    ],
+    "metadata": {
+      "generator_seed": 42,
+      "generator_index": 10,
+      "input_count": 6,
+      "output_count": 5,
+      "output_values_sats": [
+        283961,
+        283961,
+        283961,
+        283960,
+        283960
+      ]
+    }
+  },
+  {
+    "txid": "e62736e655e35a0e50ae3ff76df4b858b29345ebdf9f6bd1071562bd6db52c2a",
+    "timestamp": "2024-01-01T01:50:00Z",
+    "block_height": 850011,
+    "inputs": [
+      {
+        "address": "1378df9086593e1150c5e2be51a9cf5702",
+        "address_type": "p2pkh",
+        "cluster_id": "cluster-378df908"
+      },
+      {
+        "address": "bc1q378df9086593e1150c5e2be51a9cf5702",
+        "address_type": "bech32",
+        "cluster_id": "cluster-378df908"
+      }
+    ],
+    "outputs": [
+      {
+        "address": "37e90de2e2330a746d6699cbe7894d740b",
+        "address_type": "p2sh",
+        "cluster_id": "cluster-7e90de2e"
+      },
+      {
+        "address": "17e90de2e2330a746d6699cbe7894d740b",
+        "address_type": "p2pkh",
+        "cluster_id": "cluster-7e90de2e"
+      },
+      {
+        "address": "bc1q7e90de2e2330a746d6699cbe7894d740b",
+        "address_type": "bech32",
+        "cluster_id": "cluster-7e90de2e"
+      }
+    ],
+    "input_value_sats": 1430939,
+    "output_value_sats": 1426723,
+    "fee_sats": 4216,
+    "scenario": "normal",
+    "labels": [
+      "normal"
+    ],
+    "metadata": {
+      "generator_seed": 42,
+      "generator_index": 11,
+      "input_count": 2,
+      "output_count": 3,
+      "output_values_sats": [
+        475575,
+        475574,
+        475574
+      ]
+    }
+  },
+  {
+    "txid": "8c1aba5d2894fcb2f6895aaa02a5db74a30d219ff3abbe357ae9d7d10277b5ce",
+    "timestamp": "2024-01-01T02:00:00Z",
+    "block_height": 850012,
+    "inputs": [
+      {
+        "address": "1416f285ab8f7bad9df1894a950d60f88c",
+        "address_type": "p2pkh",
+        "cluster_id": "cluster-416f285a"
+      },
+      {
+        "address": "bc1q416f285ab8f7bad9df1894a950d60f88c",
+        "address_type": "bech32",
+        "cluster_id": "cluster-416f285a"
+      },
+      {
+        "address": "bc1p416f285ab8f7bad9df1894a950d60f88c",
+        "address_type": "taproot",
+        "cluster_id": "cluster-416f285a"
+      },
+      {
+        "address": "1416f285ab8f7bad9df1894a950d60f88c",
+        "address_type": "p2pkh",
+        "cluster_id": "cluster-416f285a"
+      }
+    ],
+    "outputs": [
+      {
+        "address": "1ec6d016e19279d7c1c31a1162401ddec4",
+        "address_type": "p2pkh",
+        "cluster_id": "cluster-ec6d016e"
+      },
+      {
+        "address": "bc1qec6d016e19279d7c1c31a1162401ddec4",
+        "address_type": "bech32",
+        "cluster_id": "cluster-ec6d016e"
+      }
+    ],
+    "input_value_sats": 111145,
+    "output_value_sats": 69971,
+    "fee_sats": 41174,
+    "scenario": "anomalous",
+    "labels": [
+      "anomalous",
+      "high_fee_rate"
+    ],
+    "metadata": {
+      "generator_seed": 42,
+      "generator_index": 12,
+      "input_count": 4,
+      "output_count": 2,
+      "output_values_sats": [
+        34986,
+        34985
+      ]
+    }
+  },
+  {
+    "txid": "14961bc946ceb372a81829a2cc71f80135b79908031b33a7d046399f81f3d7b3",
+    "timestamp": "2024-01-01T02:10:00Z",
+    "block_height": 850013,
+    "inputs": [
+      {
+        "address": "32e006c43371b77c45ae6bd7c6312790e7",
+        "address_type": "p2sh",
+        "cluster_id": "cluster-2e006c43"
+      }
+    ],
+    "outputs": [
+      {
+        "address": "19aa01268af7a7f9b96ba7919527a2c2e7",
+        "address_type": "p2pkh",
+        "cluster_id": "cluster-9aa01268"
+      },
+      {
+        "address": "19aa01268af7a7f9b96ba7919527a2c2e7",
+        "address_type": "p2pkh",
+        "cluster_id": "cluster-9aa01268"
+      }
+    ],
+    "input_value_sats": 10035923,
+    "output_value_sats": 10034686,
+    "fee_sats": 1237,
+    "scenario": "peeling-chain",
+    "labels": [
+      "peeling_chain",
+      "change_output"
+    ],
+    "metadata": {
+      "generator_seed": 42,
+      "generator_index": 13,
+      "input_count": 1,
+      "output_count": 2,
+      "output_values_sats": [
+        5017343,
+        5017343
+      ]
+    }
+  },
+  {
+    "txid": "df75d6fefc82ef7868b1d0b845bd53198fb605dc045ad53e5645dfcddfca2666",
+    "timestamp": "2024-01-01T02:20:00Z",
+    "block_height": 850014,
+    "inputs": [
+      {
+        "address": "3cdbe124bec88fb3f358fb1c08dfb3faed",
+        "address_type": "p2sh",
+        "cluster_id": "cluster-cdbe124b"
+      },
+      {
+        "address": "bc1qcdbe124bec88fb3f358fb1c08dfb3faed",
+        "address_type": "bech32",
+        "cluster_id": "cluster-cdbe124b"
+      },
+      {
+        "address": "bc1pcdbe124bec88fb3f358fb1c08dfb3faed",
+        "address_type": "taproot",
+        "cluster_id": "cluster-cdbe124b"
+      },
+      {
+        "address": "3cdbe124bec88fb3f358fb1c08dfb3faed",
+        "address_type": "p2sh",
+        "cluster_id": "cluster-cdbe124b"
+      },
+      {
+        "address": "3cdbe124bec88fb3f358fb1c08dfb3faed",
+        "address_type": "p2sh",
+        "cluster_id": "cluster-cdbe124b"
+      },
+      {
+        "address": "bc1qcdbe124bec88fb3f358fb1c08dfb3faed",
+        "address_type": "bech32",
+        "cluster_id": "cluster-cdbe124b"
+      }
+    ],
+    "outputs": [
+      {
+        "address": "bc1pacf9601f5a62a30bbf1fedee47b709e62",
+        "address_type": "taproot",
+        "cluster_id": "cluster-acf9601f"
+      },
+      {
+        "address": "bc1qacf9601f5a62a30bbf1fedee47b709e62",
+        "address_type": "bech32",
+        "cluster_id": "cluster-acf9601f"
+      },
+      {
+        "address": "bc1pacf9601f5a62a30bbf1fedee47b709e62",
+        "address_type": "taproot",
+        "cluster_id": "cluster-acf9601f"
+      },
+      {
+        "address": "bc1pacf9601f5a62a30bbf1fedee47b709e62",
+        "address_type": "taproot",
+        "cluster_id": "cluster-acf9601f"
+      },
+      {
+        "address": "1acf9601f5a62a30bbf1fedee47b709e62",
+        "address_type": "p2pkh",
+        "cluster_id": "cluster-acf9601f"
+      },
+      {
+        "address": "3acf9601f5a62a30bbf1fedee47b709e62",
+        "address_type": "p2sh",
+        "cluster_id": "cluster-acf9601f"
+      },
+      {
+        "address": "3acf9601f5a62a30bbf1fedee47b709e62",
+        "address_type": "p2sh",
+        "cluster_id": "cluster-acf9601f"
+      }
+    ],
+    "input_value_sats": 1586812,
+    "output_value_sats": 1577025,
+    "fee_sats": 9787,
+    "scenario": "mixing-like",
+    "labels": [
+      "mixing_like",
+      "many_inputs",
+      "many_outputs"
+    ],
+    "metadata": {
+      "generator_seed": 42,
+      "generator_index": 14,
+      "input_count": 6,
+      "output_count": 7,
+      "output_values_sats": [
+        225290,
+        225290,
+        225289,
+        225289,
+        225289,
+        225289,
+        225289
+      ]
+    }
+  },
+  {
+    "txid": "a5885215f6faaed0d77731bbcde19a26f818c73fd28b02e832c0f700d2bf75b6",
+    "timestamp": "2024-01-01T02:30:00Z",
+    "block_height": 850015,
+    "inputs": [
+      {
+        "address": "3350c02b843a104fbaffcf75fb62fd3672",
+        "address_type": "p2sh",
+        "cluster_id": "cluster-350c02b8"
+      },
+      {
+        "address": "3350c02b843a104fbaffcf75fb62fd3672",
+        "address_type": "p2sh",
+        "cluster_id": "cluster-350c02b8"
+      }
+    ],
+    "outputs": [
+      {
+        "address": "105de57764caac15699d42a6ce3816ba51",
+        "address_type": "p2pkh",
+        "cluster_id": "cluster-05de5776"
+      },
+      {
+        "address": "105de57764caac15699d42a6ce3816ba51",
+        "address_type": "p2pkh",
+        "cluster_id": "cluster-05de5776"
+      }
+    ],
+    "input_value_sats": 5040128,
+    "output_value_sats": 5035091,
+    "fee_sats": 5037,
+    "scenario": "normal",
+    "labels": [
+      "normal"
+    ],
+    "metadata": {
+      "generator_seed": 42,
+      "generator_index": 15,
+      "input_count": 2,
+      "output_count": 2,
+      "output_values_sats": [
+        2517546,
+        2517545
+      ]
+    }
+  },
+  {
+    "txid": "d8b6d559749ac36e445f99e1566779f92b38d8a5bd9830042f2d1d4c0cc2a83f",
+    "timestamp": "2024-01-01T02:40:00Z",
+    "block_height": 850016,
+    "inputs": [
+      {
+        "address": "bc1qf5bbbabafd780167cd50858f7f676a7ec",
+        "address_type": "bech32",
+        "cluster_id": "cluster-f5bbbaba"
+      }
+    ],
+    "outputs": [
+      {
+        "address": "1d9d367e23ee871f1d68e13614cd97b757",
+        "address_type": "p2pkh",
+        "cluster_id": "cluster-d9d367e2"
+      },
+      {
+        "address": "3d9d367e23ee871f1d68e13614cd97b757",
+        "address_type": "p2sh",
+        "cluster_id": "cluster-d9d367e2"
+      }
+    ],
+    "input_value_sats": 7695970,
+    "output_value_sats": 7695213,
+    "fee_sats": 757,
+    "scenario": "normal",
+    "labels": [
+      "normal"
+    ],
+    "metadata": {
+      "generator_seed": 42,
+      "generator_index": 16,
+      "input_count": 1,
+      "output_count": 2,
+      "output_values_sats": [
+        3847607,
+        3847606
+      ]
+    }
+  },
+  {
+    "txid": "33649bcac2c9f35cb58212f317856952ce69a6479baf2662544f4eaed5e8d935",
+    "timestamp": "2024-01-01T02:50:00Z",
+    "block_height": 850017,
+    "inputs": [
+      {
+        "address": "31fc04c6a97570e2f7f7b3d7fff69c12bb",
+        "address_type": "p2sh",
+        "cluster_id": "cluster-1fc04c6a"
+      }
+    ],
+    "outputs": [
+      {
+        "address": "bc1p5f18f6619974458269a8a2d1b68e41481",
+        "address_type": "taproot",
+        "cluster_id": "cluster-5f18f661"
+      },
+      {
+        "address": "35f18f6619974458269a8a2d1b68e41481",
+        "address_type": "p2sh",
+        "cluster_id": "cluster-5f18f661"
+      }
+    ],
+    "input_value_sats": 18289684,
+    "output_value_sats": 18287807,
+    "fee_sats": 1877,
+    "scenario": "peeling-chain",
+    "labels": [
+      "peeling_chain",
+      "change_output"
+    ],
+    "metadata": {
+      "generator_seed": 42,
+      "generator_index": 17,
+      "input_count": 1,
+      "output_count": 2,
+      "output_values_sats": [
+        9143904,
+        9143903
+      ]
+    }
+  },
+  {
+    "txid": "cf0b6104b27b03a50785e1da7644fdbf6c07e4a7193e577dc4b291ccc92740fb",
+    "timestamp": "2024-01-01T03:00:00Z",
+    "block_height": 850018,
+    "inputs": [
+      {
+        "address": "bc1p601be7086965a6111a515a2fa3b955641",
+        "address_type": "taproot",
+        "cluster_id": "cluster-601be708"
+      },
+      {
+        "address": "bc1q601be7086965a6111a515a2fa3b955641",
+        "address_type": "bech32",
+        "cluster_id": "cluster-601be708"
+      },
+      {
+        "address": "bc1p601be7086965a6111a515a2fa3b955641",
+        "address_type": "taproot",
+        "cluster_id": "cluster-601be708"
+      },
+      {
+        "address": "bc1p601be7086965a6111a515a2fa3b955641",
+        "address_type": "taproot",
+        "cluster_id": "cluster-601be708"
+      },
+      {
+        "address": "bc1p601be7086965a6111a515a2fa3b955641",
+        "address_type": "taproot",
+        "cluster_id": "cluster-601be708"
+      },
+      {
+        "address": "1601be7086965a6111a515a2fa3b955641",
+        "address_type": "p2pkh",
+        "cluster_id": "cluster-601be708"
+      },
+      {
+        "address": "1601be7086965a6111a515a2fa3b955641",
+        "address_type": "p2pkh",
+        "cluster_id": "cluster-601be708"
+      },
+      {
+        "address": "1601be7086965a6111a515a2fa3b955641",
+        "address_type": "p2pkh",
+        "cluster_id": "cluster-601be708"
+      },
+      {
+        "address": "bc1p601be7086965a6111a515a2fa3b955641",
+        "address_type": "taproot",
+        "cluster_id": "cluster-601be708"
+      },
+      {
+        "address": "bc1q601be7086965a6111a515a2fa3b955641",
+        "address_type": "bech32",
+        "cluster_id": "cluster-601be708"
+      },
+      {
+        "address": "1601be7086965a6111a515a2fa3b955641",
+        "address_type": "p2pkh",
+        "cluster_id": "cluster-601be708"
+      }
+    ],
+    "outputs": [
+      {
+        "address": "31179200f3b7e37e0ff50bc530ece138c2",
+        "address_type": "p2sh",
+        "cluster_id": "cluster-1179200f"
+      },
+      {
+        "address": "31179200f3b7e37e0ff50bc530ece138c2",
+        "address_type": "p2sh",
+        "cluster_id": "cluster-1179200f"
+      },
+      {
+        "address": "31179200f3b7e37e0ff50bc530ece138c2",
+        "address_type": "p2sh",
+        "cluster_id": "cluster-1179200f"
+      },
+      {
+        "address": "bc1p1179200f3b7e37e0ff50bc530ece138c2",
+        "address_type": "taproot",
+        "cluster_id": "cluster-1179200f"
+      },
+      {
+        "address": "31179200f3b7e37e0ff50bc530ece138c2",
+        "address_type": "p2sh",
+        "cluster_id": "cluster-1179200f"
+      },
+      {
+        "address": "bc1p1179200f3b7e37e0ff50bc530ece138c2",
+        "address_type": "taproot",
+        "cluster_id": "cluster-1179200f"
+      },
+      {
+        "address": "31179200f3b7e37e0ff50bc530ece138c2",
+        "address_type": "p2sh",
+        "cluster_id": "cluster-1179200f"
+      },
+      {
+        "address": "bc1q1179200f3b7e37e0ff50bc530ece138c2",
+        "address_type": "bech32",
+        "cluster_id": "cluster-1179200f"
+      }
+    ],
+    "input_value_sats": 1294850,
+    "output_value_sats": 1291262,
+    "fee_sats": 3588,
+    "scenario": "mixing-like",
+    "labels": [
+      "mixing_like",
+      "many_inputs",
+      "many_outputs"
+    ],
+    "metadata": {
+      "generator_seed": 42,
+      "generator_index": 18,
+      "input_count": 11,
+      "output_count": 8,
+      "output_values_sats": [
+        161408,
+        161408,
+        161408,
+        161408,
+        161408,
+        161408,
+        161407,
+        161407
+      ]
+    }
+  },
+  {
+    "txid": "9806c9ee1b2c52f3901c81433f5f6394f5f84d12d426fdd78c5de7afc17eac56",
+    "timestamp": "2024-01-01T03:10:00Z",
+    "block_height": 850019,
+    "inputs": [
+      {
+        "address": "1983577a5ed0eb2dfe4721de13d8dc8a76",
+        "address_type": "p2pkh",
+        "cluster_id": "cluster-983577a5"
+      },
+      {
+        "address": "1983577a5ed0eb2dfe4721de13d8dc8a76",
+        "address_type": "p2pkh",
+        "cluster_id": "cluster-983577a5"
+      },
+      {
+        "address": "1983577a5ed0eb2dfe4721de13d8dc8a76",
+        "address_type": "p2pkh",
+        "cluster_id": "cluster-983577a5"
+      },
+      {
+        "address": "1983577a5ed0eb2dfe4721de13d8dc8a76",
+        "address_type": "p2pkh",
+        "cluster_id": "cluster-983577a5"
+      },
+      {
+        "address": "3983577a5ed0eb2dfe4721de13d8dc8a76",
+        "address_type": "p2sh",
+        "cluster_id": "cluster-983577a5"
+      },
+      {
+        "address": "3983577a5ed0eb2dfe4721de13d8dc8a76",
+        "address_type": "p2sh",
+        "cluster_id": "cluster-983577a5"
+      },
+      {
+        "address": "bc1p983577a5ed0eb2dfe4721de13d8dc8a76",
+        "address_type": "taproot",
+        "cluster_id": "cluster-983577a5"
+      },
+      {
+        "address": "bc1p983577a5ed0eb2dfe4721de13d8dc8a76",
+        "address_type": "taproot",
+        "cluster_id": "cluster-983577a5"
+      }
+    ],
+    "outputs": [
+      {
+        "address": "bc1ped7570f1ae8341d822f2713aa32442312",
+        "address_type": "taproot",
+        "cluster_id": "cluster-ed7570f1"
+      },
+      {
+        "address": "3ed7570f1ae8341d822f2713aa32442312",
+        "address_type": "p2sh",
+        "cluster_id": "cluster-ed7570f1"
+      },
+      {
+        "address": "bc1ped7570f1ae8341d822f2713aa32442312",
+        "address_type": "taproot",
+        "cluster_id": "cluster-ed7570f1"
+      },
+      {
+        "address": "1ed7570f1ae8341d822f2713aa32442312",
+        "address_type": "p2pkh",
+        "cluster_id": "cluster-ed7570f1"
+      },
+      {
+        "address": "3ed7570f1ae8341d822f2713aa32442312",
+        "address_type": "p2sh",
+        "cluster_id": "cluster-ed7570f1"
+      },
+      {
+        "address": "bc1ped7570f1ae8341d822f2713aa32442312",
+        "address_type": "taproot",
+        "cluster_id": "cluster-ed7570f1"
+      }
+    ],
+    "input_value_sats": 4228266,
+    "output_value_sats": 4217250,
+    "fee_sats": 11016,
+    "scenario": "mixing-like",
+    "labels": [
+      "mixing_like",
+      "many_inputs",
+      "many_outputs"
+    ],
+    "metadata": {
+      "generator_seed": 42,
+      "generator_index": 19,
+      "input_count": 8,
+      "output_count": 6,
+      "output_values_sats": [
+        702875,
+        702875,
+        702875,
+        702875,
+        702875,
+        702875
+      ]
+    }
+  },
+  {
+    "txid": "28046c1a7111081c2f3eb30d21e788ca1a4f36f57c094c1844253a797b21e923",
+    "timestamp": "2024-01-01T03:20:00Z",
+    "block_height": 850020,
+    "inputs": [
+      {
+        "address": "bc1p24e5bbcfb1bea77670071828ded8ccb02",
+        "address_type": "taproot",
+        "cluster_id": "cluster-24e5bbcf"
+      },
+      {
+        "address": "bc1q24e5bbcfb1bea77670071828ded8ccb02",
+        "address_type": "bech32",
+        "cluster_id": "cluster-24e5bbcf"
+      }
+    ],
+    "outputs": [
+      {
+        "address": "bc1p19d609fab4a5f7b636f1630568637db96",
+        "address_type": "taproot",
+        "cluster_id": "cluster-19d609fa"
+      },
+      {
+        "address": "bc1p19d609fab4a5f7b636f1630568637db96",
+        "address_type": "taproot",
+        "cluster_id": "cluster-19d609fa"
+      },
+      {
+        "address": "319d609fab4a5f7b636f1630568637db96",
+        "address_type": "p2sh",
+        "cluster_id": "cluster-19d609fa"
+      }
+    ],
+    "input_value_sats": 7879119,
+    "output_value_sats": 7872196,
+    "fee_sats": 6923,
+    "scenario": "normal",
+    "labels": [
+      "normal"
+    ],
+    "metadata": {
+      "generator_seed": 42,
+      "generator_index": 20,
+      "input_count": 2,
+      "output_count": 3,
+      "output_values_sats": [
+        2624066,
+        2624065,
+        2624065
+      ]
+    }
+  },
+  {
+    "txid": "67fd70b4d2aecbc2ddc59649737ce000218c8d6676f5f8817a4105de26404595",
+    "timestamp": "2024-01-01T03:30:00Z",
+    "block_height": 850021,
+    "inputs": [
+      {
+        "address": "18846daf02896a0f2e3014b18fbf5cda61",
+        "address_type": "p2pkh",
+        "cluster_id": "cluster-8846daf0"
+      },
+      {
+        "address": "bc1q8846daf02896a0f2e3014b18fbf5cda61",
+        "address_type": "bech32",
+        "cluster_id": "cluster-8846daf0"
+      },
+      {
+        "address": "18846daf02896a0f2e3014b18fbf5cda61",
+        "address_type": "p2pkh",
+        "cluster_id": "cluster-8846daf0"
+      },
+      {
+        "address": "18846daf02896a0f2e3014b18fbf5cda61",
+        "address_type": "p2pkh",
+        "cluster_id": "cluster-8846daf0"
+      },
+      {
+        "address": "bc1p8846daf02896a0f2e3014b18fbf5cda61",
+        "address_type": "taproot",
+        "cluster_id": "cluster-8846daf0"
+      }
+    ],
+    "outputs": [
+      {
+        "address": "310430d6f02987e0bfa2491c31ce2a300f",
+        "address_type": "p2sh",
+        "cluster_id": "cluster-10430d6f"
+      }
+    ],
+    "input_value_sats": 119746,
+    "output_value_sats": 23832,
+    "fee_sats": 95914,
+    "scenario": "anomalous",
+    "labels": [
+      "anomalous",
+      "high_fee_rate"
+    ],
+    "metadata": {
+      "generator_seed": 42,
+      "generator_index": 21,
+      "input_count": 5,
+      "output_count": 1,
+      "output_values_sats": [
+        23832
+      ]
+    }
+  },
+  {
+    "txid": "ffb0b5d6e01f264521caa894db480ad4d4d9afe50b49696dc64f2eb9fabb8815",
+    "timestamp": "2024-01-01T03:40:00Z",
+    "block_height": 850022,
+    "inputs": [
+      {
+        "address": "18dd94581043d512d2f83a8d2d777c68b1",
+        "address_type": "p2pkh",
+        "cluster_id": "cluster-8dd94581"
+      }
+    ],
+    "outputs": [
+      {
+        "address": "3e215183ae8ae775d976e55783a9c7ec70",
+        "address_type": "p2sh",
+        "cluster_id": "cluster-e215183a"
+      },
+      {
+        "address": "bc1pe215183ae8ae775d976e55783a9c7ec70",
+        "address_type": "taproot",
+        "cluster_id": "cluster-e215183a"
+      }
+    ],
+    "input_value_sats": 680172,
+    "output_value_sats": 674798,
+    "fee_sats": 5374,
+    "scenario": "normal",
+    "labels": [
+      "normal"
+    ],
+    "metadata": {
+      "generator_seed": 42,
+      "generator_index": 22,
+      "input_count": 1,
+      "output_count": 2,
+      "output_values_sats": [
+        337399,
+        337399
+      ]
+    }
+  },
+  {
+    "txid": "069e28cf2688393379dc0f8e24ffc7cc03f6d87cdd29fa6634d11d3583eab04d",
+    "timestamp": "2024-01-01T03:50:00Z",
+    "block_height": 850023,
+    "inputs": [
+      {
+        "address": "bc1p8948cbd376a3affad09d6cf0634c814a3",
+        "address_type": "taproot",
+        "cluster_id": "cluster-8948cbd3"
+      }
+    ],
+    "outputs": [
+      {
+        "address": "bc1qdeb40d8a5080a1fe8cee8eb9100f79688",
+        "address_type": "bech32",
+        "cluster_id": "cluster-deb40d8a"
+      },
+      {
+        "address": "bc1qdeb40d8a5080a1fe8cee8eb9100f79688",
+        "address_type": "bech32",
+        "cluster_id": "cluster-deb40d8a"
+      }
+    ],
+    "input_value_sats": 5296919,
+    "output_value_sats": 5295748,
+    "fee_sats": 1171,
+    "scenario": "normal",
+    "labels": [
+      "normal"
+    ],
+    "metadata": {
+      "generator_seed": 42,
+      "generator_index": 23,
+      "input_count": 1,
+      "output_count": 2,
+      "output_values_sats": [
+        2647874,
+        2647874
+      ]
+    }
+  },
+  {
+    "txid": "02bca56ba8a899952de16da46c451383f7e7f5300915042f3f75dd416db39e3d",
+    "timestamp": "2024-01-01T04:00:00Z",
+    "block_height": 850024,
+    "inputs": [
+      {
+        "address": "bc1p3751285b9a887fbe033e071e359b68ac4",
+        "address_type": "taproot",
+        "cluster_id": "cluster-3751285b"
+      },
+      {
+        "address": "33751285b9a887fbe033e071e359b68ac4",
+        "address_type": "p2sh",
+        "cluster_id": "cluster-3751285b"
+      },
+      {
+        "address": "bc1q3751285b9a887fbe033e071e359b68ac4",
+        "address_type": "bech32",
+        "cluster_id": "cluster-3751285b"
+      },
+      {
+        "address": "bc1p3751285b9a887fbe033e071e359b68ac4",
+        "address_type": "taproot",
+        "cluster_id": "cluster-3751285b"
+      },
+      {
+        "address": "bc1q3751285b9a887fbe033e071e359b68ac4",
+        "address_type": "bech32",
+        "cluster_id": "cluster-3751285b"
+      },
+      {
+        "address": "13751285b9a887fbe033e071e359b68ac4",
+        "address_type": "p2pkh",
+        "cluster_id": "cluster-3751285b"
+      },
+      {
+        "address": "13751285b9a887fbe033e071e359b68ac4",
+        "address_type": "p2pkh",
+        "cluster_id": "cluster-3751285b"
+      },
+      {
+        "address": "bc1p3751285b9a887fbe033e071e359b68ac4",
+        "address_type": "taproot",
+        "cluster_id": "cluster-3751285b"
+      }
+    ],
+    "outputs": [
+      {
+        "address": "1a48d3d408e01d1abcab48b3e7caff084b",
+        "address_type": "p2pkh",
+        "cluster_id": "cluster-a48d3d40"
+      },
+      {
+        "address": "1a48d3d408e01d1abcab48b3e7caff084b",
+        "address_type": "p2pkh",
+        "cluster_id": "cluster-a48d3d40"
+      }
+    ],
+    "input_value_sats": 90456,
+    "output_value_sats": 35642,
+    "fee_sats": 54814,
+    "scenario": "anomalous",
+    "labels": [
+      "anomalous",
+      "high_fee_rate"
+    ],
+    "metadata": {
+      "generator_seed": 42,
+      "generator_index": 24,
+      "input_count": 8,
+      "output_count": 2,
+      "output_values_sats": [
+        17821,
+        17821
+      ]
+    }
+  },
+  {
+    "txid": "2672c9d4bdc576bd0952ac31b996c44336bb2e08993f94505c2c80250863b17f",
+    "timestamp": "2024-01-01T04:10:00Z",
+    "block_height": 850025,
+    "inputs": [
+      {
+        "address": "104bed9c1ebfc8d008760c9eae9c9e0ea6",
+        "address_type": "p2pkh",
+        "cluster_id": "cluster-04bed9c1"
+      },
+      {
+        "address": "304bed9c1ebfc8d008760c9eae9c9e0ea6",
+        "address_type": "p2sh",
+        "cluster_id": "cluster-04bed9c1"
+      },
+      {
+        "address": "bc1q04bed9c1ebfc8d008760c9eae9c9e0ea6",
+        "address_type": "bech32",
+        "cluster_id": "cluster-04bed9c1"
+      },
+      {
+        "address": "bc1q04bed9c1ebfc8d008760c9eae9c9e0ea6",
+        "address_type": "bech32",
+        "cluster_id": "cluster-04bed9c1"
+      },
+      {
+        "address": "304bed9c1ebfc8d008760c9eae9c9e0ea6",
+        "address_type": "p2sh",
+        "cluster_id": "cluster-04bed9c1"
+      },
+      {
+        "address": "bc1p04bed9c1ebfc8d008760c9eae9c9e0ea6",
+        "address_type": "taproot",
+        "cluster_id": "cluster-04bed9c1"
+      },
+      {
+        "address": "bc1q04bed9c1ebfc8d008760c9eae9c9e0ea6",
+        "address_type": "bech32",
+        "cluster_id": "cluster-04bed9c1"
+      }
+    ],
+    "outputs": [
+      {
+        "address": "1e85619eab4e98532ffbd101cede3aff68",
+        "address_type": "p2pkh",
+        "cluster_id": "cluster-e85619ea"
+      },
+      {
+        "address": "bc1qe85619eab4e98532ffbd101cede3aff68",
+        "address_type": "bech32",
+        "cluster_id": "cluster-e85619ea"
+      }
+    ],
+    "input_value_sats": 94425,
+    "output_value_sats": 28680,
+    "fee_sats": 65745,
+    "scenario": "anomalous",
+    "labels": [
+      "anomalous",
+      "high_fee_rate"
+    ],
+    "metadata": {
+      "generator_seed": 42,
+      "generator_index": 25,
+      "input_count": 7,
+      "output_count": 2,
+      "output_values_sats": [
+        14340,
+        14340
+      ]
+    }
+  },
+  {
+    "txid": "2f1aa28d083e08166b3fa273c1e689ed64112cc39fc451e468023feb06083839",
+    "timestamp": "2024-01-01T04:20:00Z",
+    "block_height": 850026,
+    "inputs": [
+      {
+        "address": "143f93ed2d87e1e3213c99a3b9e2baf05b",
+        "address_type": "p2pkh",
+        "cluster_id": "cluster-43f93ed2"
+      }
+    ],
+    "outputs": [
+      {
+        "address": "326880dbe77a6ffa032a0d27e8af5f0841",
+        "address_type": "p2sh",
+        "cluster_id": "cluster-26880dbe"
+      },
+      {
+        "address": "bc1q26880dbe77a6ffa032a0d27e8af5f0841",
+        "address_type": "bech32",
+        "cluster_id": "cluster-26880dbe"
+      },
+      {
+        "address": "bc1q26880dbe77a6ffa032a0d27e8af5f0841",
+        "address_type": "bech32",
+        "cluster_id": "cluster-26880dbe"
+      }
+    ],
+    "input_value_sats": 1076073,
+    "output_value_sats": 1068285,
+    "fee_sats": 7788,
+    "scenario": "normal",
+    "labels": [
+      "normal"
+    ],
+    "metadata": {
+      "generator_seed": 42,
+      "generator_index": 26,
+      "input_count": 1,
+      "output_count": 3,
+      "output_values_sats": [
+        356095,
+        356095,
+        356095
+      ]
+    }
+  },
+  {
+    "txid": "83a9304f6699e0c834916755d54beec2ebce6f760effd54dfa68177569b9a501",
+    "timestamp": "2024-01-01T04:30:00Z",
+    "block_height": 850027,
+    "inputs": [
+      {
+        "address": "bc1p57ea7f3d067745859b5118284db027a40",
+        "address_type": "taproot",
+        "cluster_id": "cluster-57ea7f3d"
+      },
+      {
+        "address": "bc1q57ea7f3d067745859b5118284db027a40",
+        "address_type": "bech32",
+        "cluster_id": "cluster-57ea7f3d"
+      },
+      {
+        "address": "157ea7f3d067745859b5118284db027a40",
+        "address_type": "p2pkh",
+        "cluster_id": "cluster-57ea7f3d"
+      },
+      {
+        "address": "157ea7f3d067745859b5118284db027a40",
+        "address_type": "p2pkh",
+        "cluster_id": "cluster-57ea7f3d"
+      },
+      {
+        "address": "bc1p57ea7f3d067745859b5118284db027a40",
+        "address_type": "taproot",
+        "cluster_id": "cluster-57ea7f3d"
+      },
+      {
+        "address": "bc1q57ea7f3d067745859b5118284db027a40",
+        "address_type": "bech32",
+        "cluster_id": "cluster-57ea7f3d"
+      },
+      {
+        "address": "157ea7f3d067745859b5118284db027a40",
+        "address_type": "p2pkh",
+        "cluster_id": "cluster-57ea7f3d"
+      },
+      {
+        "address": "157ea7f3d067745859b5118284db027a40",
+        "address_type": "p2pkh",
+        "cluster_id": "cluster-57ea7f3d"
+      }
+    ],
+    "outputs": [
+      {
+        "address": "bc1q928f9c707fc90868ea15980fd19c8ea9d",
+        "address_type": "bech32",
+        "cluster_id": "cluster-928f9c70"
+      },
+      {
+        "address": "3928f9c707fc90868ea15980fd19c8ea9d",
+        "address_type": "p2sh",
+        "cluster_id": "cluster-928f9c70"
+      }
+    ],
+    "input_value_sats": 87942,
+    "output_value_sats": 33342,
+    "fee_sats": 54600,
+    "scenario": "anomalous",
+    "labels": [
+      "anomalous",
+      "high_fee_rate"
+    ],
+    "metadata": {
+      "generator_seed": 42,
+      "generator_index": 27,
+      "input_count": 8,
+      "output_count": 2,
+      "output_values_sats": [
+        16671,
+        16671
+      ]
+    }
+  },
+  {
+    "txid": "79cc236a1fc941d28c3e6a864ba2539e1410e1214545810911e039a01ce0b79f",
+    "timestamp": "2024-01-01T04:40:00Z",
+    "block_height": 850028,
+    "inputs": [
+      {
+        "address": "bc1p9886b4aaf795859795d84d83d01021edc",
+        "address_type": "taproot",
+        "cluster_id": "cluster-9886b4aa"
+      }
+    ],
+    "outputs": [
+      {
+        "address": "bc1p26b4ff06e7e3a667f5fe1aae561a4a1b0",
+        "address_type": "taproot",
+        "cluster_id": "cluster-26b4ff06"
+      },
+      {
+        "address": "126b4ff06e7e3a667f5fe1aae561a4a1b0",
+        "address_type": "p2pkh",
+        "cluster_id": "cluster-26b4ff06"
+      }
+    ],
+    "input_value_sats": 7425827,
+    "output_value_sats": 7421791,
+    "fee_sats": 4036,
+    "scenario": "peeling-chain",
+    "labels": [
+      "peeling_chain",
+      "change_output"
+    ],
+    "metadata": {
+      "generator_seed": 42,
+      "generator_index": 28,
+      "input_count": 1,
+      "output_count": 2,
+      "output_values_sats": [
+        3710896,
+        3710895
+      ]
+    }
+  },
+  {
+    "txid": "6ace6372e336a580262c878121c7eff760c371272af97b83e1c3eb9629bbfc08",
+    "timestamp": "2024-01-01T04:50:00Z",
+    "block_height": 850029,
+    "inputs": [
+      {
+        "address": "bc1qe943a13396f1bae12509ef8fcceb4e656",
+        "address_type": "bech32",
+        "cluster_id": "cluster-e943a133"
+      }
+    ],
+    "outputs": [
+      {
+        "address": "3fc3db2238c38c8514be0d0f9600ea0564",
+        "address_type": "p2sh",
+        "cluster_id": "cluster-fc3db223"
+      },
+      {
+        "address": "bc1pfc3db2238c38c8514be0d0f9600ea0564",
+        "address_type": "taproot",
+        "cluster_id": "cluster-fc3db223"
+      }
+    ],
+    "input_value_sats": 4677538,
+    "output_value_sats": 4676743,
+    "fee_sats": 795,
+    "scenario": "normal",
+    "labels": [
+      "normal"
+    ],
+    "metadata": {
+      "generator_seed": 42,
+      "generator_index": 29,
+      "input_count": 1,
+      "output_count": 2,
+      "output_values_sats": [
+        2338372,
+        2338371
+      ]
+    }
+  },
+  {
+    "txid": "76a80cf73ccad0dd324117a8ac1f03f3a85eb5847ebca3e8bfe7ab5089b7fe5f",
+    "timestamp": "2024-01-01T05:00:00Z",
+    "block_height": 850030,
+    "inputs": [
+      {
+        "address": "bc1q1266dc8e1b0ecf1b63466afacbab47d37",
+        "address_type": "bech32",
+        "cluster_id": "cluster-1266dc8e"
+      },
+      {
+        "address": "31266dc8e1b0ecf1b63466afacbab47d37",
+        "address_type": "p2sh",
+        "cluster_id": "cluster-1266dc8e"
+      },
+      {
+        "address": "31266dc8e1b0ecf1b63466afacbab47d37",
+        "address_type": "p2sh",
+        "cluster_id": "cluster-1266dc8e"
+      }
+    ],
+    "outputs": [
+      {
+        "address": "17121878c0c473ae1aba98f656c7959a72",
+        "address_type": "p2pkh",
+        "cluster_id": "cluster-7121878c"
+      },
+      {
+        "address": "bc1q7121878c0c473ae1aba98f656c7959a72",
+        "address_type": "bech32",
+        "cluster_id": "cluster-7121878c"
+      }
+    ],
+    "input_value_sats": 69126,
+    "output_value_sats": 43897,
+    "fee_sats": 25229,
+    "scenario": "anomalous",
+    "labels": [
+      "anomalous",
+      "high_fee_rate"
+    ],
+    "metadata": {
+      "generator_seed": 42,
+      "generator_index": 30,
+      "input_count": 3,
+      "output_count": 2,
+      "output_values_sats": [
+        21949,
+        21948
+      ]
+    }
+  },
+  {
+    "txid": "0e3b048534469e2d9878e8246489f332c8e8a9695b974a06f5327c8eb8e6900b",
+    "timestamp": "2024-01-01T05:10:00Z",
+    "block_height": 850031,
+    "inputs": [
+      {
+        "address": "bc1p202b593c7f84fd690df8e856fd4e4cf1c",
+        "address_type": "taproot",
+        "cluster_id": "cluster-202b593c"
+      },
+      {
+        "address": "1202b593c7f84fd690df8e856fd4e4cf1c",
+        "address_type": "p2pkh",
+        "cluster_id": "cluster-202b593c"
+      },
+      {
+        "address": "3202b593c7f84fd690df8e856fd4e4cf1c",
+        "address_type": "p2sh",
+        "cluster_id": "cluster-202b593c"
+      },
+      {
+        "address": "bc1q202b593c7f84fd690df8e856fd4e4cf1c",
+        "address_type": "bech32",
+        "cluster_id": "cluster-202b593c"
+      },
+      {
+        "address": "bc1p202b593c7f84fd690df8e856fd4e4cf1c",
+        "address_type": "taproot",
+        "cluster_id": "cluster-202b593c"
+      },
+      {
+        "address": "3202b593c7f84fd690df8e856fd4e4cf1c",
+        "address_type": "p2sh",
+        "cluster_id": "cluster-202b593c"
+      },
+      {
+        "address": "bc1q202b593c7f84fd690df8e856fd4e4cf1c",
+        "address_type": "bech32",
+        "cluster_id": "cluster-202b593c"
+      }
+    ],
+    "outputs": [
+      {
+        "address": "3621fd5f76b42caa994d8248ee480e267f",
+        "address_type": "p2sh",
+        "cluster_id": "cluster-621fd5f7"
+      },
+      {
+        "address": "1621fd5f76b42caa994d8248ee480e267f",
+        "address_type": "p2pkh",
+        "cluster_id": "cluster-621fd5f7"
+      },
+      {
+        "address": "bc1p621fd5f76b42caa994d8248ee480e267f",
+        "address_type": "taproot",
+        "cluster_id": "cluster-621fd5f7"
+      },
+      {
+        "address": "1621fd5f76b42caa994d8248ee480e267f",
+        "address_type": "p2pkh",
+        "cluster_id": "cluster-621fd5f7"
+      },
+      {
+        "address": "bc1p621fd5f76b42caa994d8248ee480e267f",
+        "address_type": "taproot",
+        "cluster_id": "cluster-621fd5f7"
+      },
+      {
+        "address": "3621fd5f76b42caa994d8248ee480e267f",
+        "address_type": "p2sh",
+        "cluster_id": "cluster-621fd5f7"
+      },
+      {
+        "address": "3621fd5f76b42caa994d8248ee480e267f",
+        "address_type": "p2sh",
+        "cluster_id": "cluster-621fd5f7"
+      },
+      {
+        "address": "bc1p621fd5f76b42caa994d8248ee480e267f",
+        "address_type": "taproot",
+        "cluster_id": "cluster-621fd5f7"
+      }
+    ],
+    "input_value_sats": 1868063,
+    "output_value_sats": 1863163,
+    "fee_sats": 4900,
+    "scenario": "mixing-like",
+    "labels": [
+      "mixing_like",
+      "many_inputs",
+      "many_outputs"
+    ],
+    "metadata": {
+      "generator_seed": 42,
+      "generator_index": 31,
+      "input_count": 7,
+      "output_count": 8,
+      "output_values_sats": [
+        232896,
+        232896,
+        232896,
+        232895,
+        232895,
+        232895,
+        232895,
+        232895
+      ]
+    }
+  },
+  {
+    "txid": "d12e1b320eeae2203a2c06826a5457bc3a78de3fea0901be6a854913ab232ffa",
+    "timestamp": "2024-01-01T05:20:00Z",
+    "block_height": 850032,
+    "inputs": [
+      {
+        "address": "309128a17ff42a1e91ab7909ba3507971d",
+        "address_type": "p2sh",
+        "cluster_id": "cluster-09128a17"
+      }
+    ],
+    "outputs": [
+      {
+        "address": "3c75dd01dfb2dcaad5614bb57aa20b9066",
+        "address_type": "p2sh",
+        "cluster_id": "cluster-c75dd01d"
+      },
+      {
+        "address": "1c75dd01dfb2dcaad5614bb57aa20b9066",
+        "address_type": "p2pkh",
+        "cluster_id": "cluster-c75dd01d"
+      }
+    ],
+    "input_value_sats": 12244866,
+    "output_value_sats": 12240506,
+    "fee_sats": 4360,
+    "scenario": "peeling-chain",
+    "labels": [
+      "peeling_chain",
+      "change_output"
+    ],
+    "metadata": {
+      "generator_seed": 42,
+      "generator_index": 32,
+      "input_count": 1,
+      "output_count": 2,
+      "output_values_sats": [
+        6120253,
+        6120253
+      ]
+    }
+  },
+  {
+    "txid": "7ed84ed3d223e5bdae0d9c0a8a2e8080c3cafbfffb53e59378518d854d62ac2c",
+    "timestamp": "2024-01-01T05:30:00Z",
+    "block_height": 850033,
+    "inputs": [
+      {
+        "address": "bc1q9d8ee99ae770f75c88943248cd5c9dea6",
+        "address_type": "bech32",
+        "cluster_id": "cluster-9d8ee99a"
+      },
+      {
+        "address": "bc1q9d8ee99ae770f75c88943248cd5c9dea6",
+        "address_type": "bech32",
+        "cluster_id": "cluster-9d8ee99a"
+      },
+      {
+        "address": "bc1p9d8ee99ae770f75c88943248cd5c9dea6",
+        "address_type": "taproot",
+        "cluster_id": "cluster-9d8ee99a"
+      },
+      {
+        "address": "bc1q9d8ee99ae770f75c88943248cd5c9dea6",
+        "address_type": "bech32",
+        "cluster_id": "cluster-9d8ee99a"
+      },
+      {
+        "address": "19d8ee99ae770f75c88943248cd5c9dea6",
+        "address_type": "p2pkh",
+        "cluster_id": "cluster-9d8ee99a"
+      },
+      {
+        "address": "19d8ee99ae770f75c88943248cd5c9dea6",
+        "address_type": "p2pkh",
+        "cluster_id": "cluster-9d8ee99a"
+      }
+    ],
+    "outputs": [
+      {
+        "address": "bc1q4c2fabbe9415b831b7aaaf332433ccb24",
+        "address_type": "bech32",
+        "cluster_id": "cluster-4c2fabbe"
+      },
+      {
+        "address": "34c2fabbe9415b831b7aaaf332433ccb24",
+        "address_type": "p2sh",
+        "cluster_id": "cluster-4c2fabbe"
+      }
+    ],
+    "input_value_sats": 67357,
+    "output_value_sats": 38258,
+    "fee_sats": 29099,
+    "scenario": "anomalous",
+    "labels": [
+      "anomalous",
+      "high_fee_rate"
+    ],
+    "metadata": {
+      "generator_seed": 42,
+      "generator_index": 33,
+      "input_count": 6,
+      "output_count": 2,
+      "output_values_sats": [
+        19129,
+        19129
+      ]
+    }
+  },
+  {
+    "txid": "d3b6b98983045ed2c5ecc921c1cbc32e0516b4a184f7de42cc4feea96d62a992",
+    "timestamp": "2024-01-01T05:40:00Z",
+    "block_height": 850034,
+    "inputs": [
+      {
+        "address": "bc1p40a4db8757df7496546c6f243eb785361",
+        "address_type": "taproot",
+        "cluster_id": "cluster-40a4db87"
+      }
+    ],
+    "outputs": [
+      {
+        "address": "bc1q3ed8d70392710fb113c53e8e726c71ecc",
+        "address_type": "bech32",
+        "cluster_id": "cluster-3ed8d703"
+      },
+      {
+        "address": "bc1q3ed8d70392710fb113c53e8e726c71ecc",
+        "address_type": "bech32",
+        "cluster_id": "cluster-3ed8d703"
+      }
+    ],
+    "input_value_sats": 3285142,
+    "output_value_sats": 3283698,
+    "fee_sats": 1444,
+    "scenario": "peeling-chain",
+    "labels": [
+      "peeling_chain",
+      "change_output"
+    ],
+    "metadata": {
+      "generator_seed": 42,
+      "generator_index": 34,
+      "input_count": 1,
+      "output_count": 2,
+      "output_values_sats": [
+        1641849,
+        1641849
+      ]
+    }
+  },
+  {
+    "txid": "0f0b3e42e9cf9e84fe8b2588b6f3fbf04c6356ec8789be33896246169a662bb7",
+    "timestamp": "2024-01-01T05:50:00Z",
+    "block_height": 850035,
+    "inputs": [
+      {
+        "address": "1af9b9bacfb92faeb36f2c3a5ab5b72a91",
+        "address_type": "p2pkh",
+        "cluster_id": "cluster-af9b9bac"
+      },
+      {
+        "address": "bc1paf9b9bacfb92faeb36f2c3a5ab5b72a91",
+        "address_type": "taproot",
+        "cluster_id": "cluster-af9b9bac"
+      },
+      {
+        "address": "1af9b9bacfb92faeb36f2c3a5ab5b72a91",
+        "address_type": "p2pkh",
+        "cluster_id": "cluster-af9b9bac"
+      },
+      {
+        "address": "3af9b9bacfb92faeb36f2c3a5ab5b72a91",
+        "address_type": "p2sh",
+        "cluster_id": "cluster-af9b9bac"
+      },
+      {
+        "address": "bc1qaf9b9bacfb92faeb36f2c3a5ab5b72a91",
+        "address_type": "bech32",
+        "cluster_id": "cluster-af9b9bac"
+      },
+      {
+        "address": "bc1paf9b9bacfb92faeb36f2c3a5ab5b72a91",
+        "address_type": "taproot",
+        "cluster_id": "cluster-af9b9bac"
+      }
+    ],
+    "outputs": [
+      {
+        "address": "1e8f4bd85f8b128f457adf9233141ba730",
+        "address_type": "p2pkh",
+        "cluster_id": "cluster-e8f4bd85"
+      },
+      {
+        "address": "bc1qe8f4bd85f8b128f457adf9233141ba730",
+        "address_type": "bech32",
+        "cluster_id": "cluster-e8f4bd85"
+      },
+      {
+        "address": "bc1qe8f4bd85f8b128f457adf9233141ba730",
+        "address_type": "bech32",
+        "cluster_id": "cluster-e8f4bd85"
+      },
+      {
+        "address": "1e8f4bd85f8b128f457adf9233141ba730",
+        "address_type": "p2pkh",
+        "cluster_id": "cluster-e8f4bd85"
+      },
+      {
+        "address": "bc1qe8f4bd85f8b128f457adf9233141ba730",
+        "address_type": "bech32",
+        "cluster_id": "cluster-e8f4bd85"
+      },
+      {
+        "address": "bc1qe8f4bd85f8b128f457adf9233141ba730",
+        "address_type": "bech32",
+        "cluster_id": "cluster-e8f4bd85"
+      },
+      {
+        "address": "bc1pe8f4bd85f8b128f457adf9233141ba730",
+        "address_type": "taproot",
+        "cluster_id": "cluster-e8f4bd85"
+      },
+      {
+        "address": "bc1qe8f4bd85f8b128f457adf9233141ba730",
+        "address_type": "bech32",
+        "cluster_id": "cluster-e8f4bd85"
+      },
+      {
+        "address": "bc1pe8f4bd85f8b128f457adf9233141ba730",
+        "address_type": "taproot",
+        "cluster_id": "cluster-e8f4bd85"
+      },
+      {
+        "address": "bc1qe8f4bd85f8b128f457adf9233141ba730",
+        "address_type": "bech32",
+        "cluster_id": "cluster-e8f4bd85"
+      },
+      {
+        "address": "3e8f4bd85f8b128f457adf9233141ba730",
+        "address_type": "p2sh",
+        "cluster_id": "cluster-e8f4bd85"
+      }
+    ],
+    "input_value_sats": 2100669,
+    "output_value_sats": 2094496,
+    "fee_sats": 6173,
+    "scenario": "mixing-like",
+    "labels": [
+      "mixing_like",
+      "many_inputs",
+      "many_outputs"
+    ],
+    "metadata": {
+      "generator_seed": 42,
+      "generator_index": 35,
+      "input_count": 6,
+      "output_count": 11,
+      "output_values_sats": [
+        190409,
+        190409,
+        190409,
+        190409,
+        190409,
+        190409,
+        190409,
+        190409,
+        190408,
+        190408,
+        190408
+      ]
+    }
+  },
+  {
+    "txid": "e6b6196d32c6486dbccb0540f1ca4f5e85a2a219380ede50d3b10c55103eb914",
+    "timestamp": "2024-01-01T06:00:00Z",
+    "block_height": 850036,
+    "inputs": [
+      {
+        "address": "bc1qe700bae23355437f216a1a4f028a57ec7",
+        "address_type": "bech32",
+        "cluster_id": "cluster-e700bae2"
+      },
+      {
+        "address": "bc1pe700bae23355437f216a1a4f028a57ec7",
+        "address_type": "taproot",
+        "cluster_id": "cluster-e700bae2"
+      },
+      {
+        "address": "1e700bae23355437f216a1a4f028a57ec7",
+        "address_type": "p2pkh",
+        "cluster_id": "cluster-e700bae2"
+      },
+      {
+        "address": "bc1qe700bae23355437f216a1a4f028a57ec7",
+        "address_type": "bech32",
+        "cluster_id": "cluster-e700bae2"
+      },
+      {
+        "address": "bc1qe700bae23355437f216a1a4f028a57ec7",
+        "address_type": "bech32",
+        "cluster_id": "cluster-e700bae2"
+      },
+      {
+        "address": "3e700bae23355437f216a1a4f028a57ec7",
+        "address_type": "p2sh",
+        "cluster_id": "cluster-e700bae2"
+      }
+    ],
+    "outputs": [
+      {
+        "address": "bc1pb3b0c7e2e68ea7a67f8cc544736cea4c7",
+        "address_type": "taproot",
+        "cluster_id": "cluster-b3b0c7e2"
+      },
+      {
+        "address": "bc1qb3b0c7e2e68ea7a67f8cc544736cea4c7",
+        "address_type": "bech32",
+        "cluster_id": "cluster-b3b0c7e2"
+      }
+    ],
+    "input_value_sats": 107198,
+    "output_value_sats": 64388,
+    "fee_sats": 42810,
+    "scenario": "anomalous",
+    "labels": [
+      "anomalous",
+      "high_fee_rate"
+    ],
+    "metadata": {
+      "generator_seed": 42,
+      "generator_index": 36,
+      "input_count": 6,
+      "output_count": 2,
+      "output_values_sats": [
+        32194,
+        32194
+      ]
+    }
+  },
+  {
+    "txid": "a5a25d2729a0230ace065c020f536dad89448771eb40e9d43e427da46918790d",
+    "timestamp": "2024-01-01T06:10:00Z",
+    "block_height": 850037,
+    "inputs": [
+      {
+        "address": "bc1p5106c615ddeed8e268878dca60d112f9a",
+        "address_type": "taproot",
+        "cluster_id": "cluster-5106c615"
+      },
+      {
+        "address": "35106c615ddeed8e268878dca60d112f9a",
+        "address_type": "p2sh",
+        "cluster_id": "cluster-5106c615"
+      },
+      {
+        "address": "15106c615ddeed8e268878dca60d112f9a",
+        "address_type": "p2pkh",
+        "cluster_id": "cluster-5106c615"
+      },
+      {
+        "address": "bc1q5106c615ddeed8e268878dca60d112f9a",
+        "address_type": "bech32",
+        "cluster_id": "cluster-5106c615"
+      },
+      {
+        "address": "bc1q5106c615ddeed8e268878dca60d112f9a",
+        "address_type": "bech32",
+        "cluster_id": "cluster-5106c615"
+      },
+      {
+        "address": "15106c615ddeed8e268878dca60d112f9a",
+        "address_type": "p2pkh",
+        "cluster_id": "cluster-5106c615"
+      },
+      {
+        "address": "35106c615ddeed8e268878dca60d112f9a",
+        "address_type": "p2sh",
+        "cluster_id": "cluster-5106c615"
+      },
+      {
+        "address": "bc1q5106c615ddeed8e268878dca60d112f9a",
+        "address_type": "bech32",
+        "cluster_id": "cluster-5106c615"
+      },
+      {
+        "address": "35106c615ddeed8e268878dca60d112f9a",
+        "address_type": "p2sh",
+        "cluster_id": "cluster-5106c615"
+      },
+      {
+        "address": "35106c615ddeed8e268878dca60d112f9a",
+        "address_type": "p2sh",
+        "cluster_id": "cluster-5106c615"
+      },
+      {
+        "address": "35106c615ddeed8e268878dca60d112f9a",
+        "address_type": "p2sh",
+        "cluster_id": "cluster-5106c615"
+      },
+      {
+        "address": "15106c615ddeed8e268878dca60d112f9a",
+        "address_type": "p2pkh",
+        "cluster_id": "cluster-5106c615"
+      }
+    ],
+    "outputs": [
+      {
+        "address": "1ccb6c4386745b59e5f9461eb9fb774d17",
+        "address_type": "p2pkh",
+        "cluster_id": "cluster-ccb6c438"
+      },
+      {
+        "address": "3ccb6c4386745b59e5f9461eb9fb774d17",
+        "address_type": "p2sh",
+        "cluster_id": "cluster-ccb6c438"
+      },
+      {
+        "address": "bc1pccb6c4386745b59e5f9461eb9fb774d17",
+        "address_type": "taproot",
+        "cluster_id": "cluster-ccb6c438"
+      },
+      {
+        "address": "1ccb6c4386745b59e5f9461eb9fb774d17",
+        "address_type": "p2pkh",
+        "cluster_id": "cluster-ccb6c438"
+      },
+      {
+        "address": "bc1pccb6c4386745b59e5f9461eb9fb774d17",
+        "address_type": "taproot",
+        "cluster_id": "cluster-ccb6c438"
+      },
+      {
+        "address": "bc1pccb6c4386745b59e5f9461eb9fb774d17",
+        "address_type": "taproot",
+        "cluster_id": "cluster-ccb6c438"
+      },
+      {
+        "address": "3ccb6c4386745b59e5f9461eb9fb774d17",
+        "address_type": "p2sh",
+        "cluster_id": "cluster-ccb6c438"
+      },
+      {
+        "address": "bc1pccb6c4386745b59e5f9461eb9fb774d17",
+        "address_type": "taproot",
+        "cluster_id": "cluster-ccb6c438"
+      },
+      {
+        "address": "bc1pccb6c4386745b59e5f9461eb9fb774d17",
+        "address_type": "taproot",
+        "cluster_id": "cluster-ccb6c438"
+      },
+      {
+        "address": "bc1pccb6c4386745b59e5f9461eb9fb774d17",
+        "address_type": "taproot",
+        "cluster_id": "cluster-ccb6c438"
+      },
+      {
+        "address": "3ccb6c4386745b59e5f9461eb9fb774d17",
+        "address_type": "p2sh",
+        "cluster_id": "cluster-ccb6c438"
+      },
+      {
+        "address": "3ccb6c4386745b59e5f9461eb9fb774d17",
+        "address_type": "p2sh",
+        "cluster_id": "cluster-ccb6c438"
+      }
+    ],
+    "input_value_sats": 2303032,
+    "output_value_sats": 2292657,
+    "fee_sats": 10375,
+    "scenario": "mixing-like",
+    "labels": [
+      "mixing_like",
+      "many_inputs",
+      "many_outputs"
+    ],
+    "metadata": {
+      "generator_seed": 42,
+      "generator_index": 37,
+      "input_count": 12,
+      "output_count": 12,
+      "output_values_sats": [
+        191055,
+        191055,
+        191055,
+        191055,
+        191055,
+        191055,
+        191055,
+        191055,
+        191055,
+        191054,
+        191054,
+        191054
+      ]
+    }
+  },
+  {
+    "txid": "22727a8cfdfd06642710d6d9feb098c48aa32b4f912c9a9606671033ceaccdc7",
+    "timestamp": "2024-01-01T06:20:00Z",
+    "block_height": 850038,
+    "inputs": [
+      {
+        "address": "bc1p35ffbbc27b39c8000757a00345c2de499",
+        "address_type": "taproot",
+        "cluster_id": "cluster-35ffbbc2"
+      }
+    ],
+    "outputs": [
+      {
+        "address": "13e52587cdba85c2e588687e2ee0907439",
+        "address_type": "p2pkh",
+        "cluster_id": "cluster-3e52587c"
+      },
+      {
+        "address": "33e52587cdba85c2e588687e2ee0907439",
+        "address_type": "p2sh",
+        "cluster_id": "cluster-3e52587c"
+      },
+      {
+        "address": "13e52587cdba85c2e588687e2ee0907439",
+        "address_type": "p2pkh",
+        "cluster_id": "cluster-3e52587c"
+      }
+    ],
+    "input_value_sats": 1937712,
+    "output_value_sats": 1935772,
+    "fee_sats": 1940,
+    "scenario": "normal",
+    "labels": [
+      "normal"
+    ],
+    "metadata": {
+      "generator_seed": 42,
+      "generator_index": 38,
+      "input_count": 1,
+      "output_count": 3,
+      "output_values_sats": [
+        645258,
+        645257,
+        645257
+      ]
+    }
+  },
+  {
+    "txid": "e6a39bcae8f7038f6f6e31211061b4145a35fc65a3e472a755ab580d1b45b281",
+    "timestamp": "2024-01-01T06:30:00Z",
+    "block_height": 850039,
+    "inputs": [
+      {
+        "address": "bc1q236df64a6ea89d8d67aa3666357dfa0e3",
+        "address_type": "bech32",
+        "cluster_id": "cluster-236df64a"
+      },
+      {
+        "address": "bc1p236df64a6ea89d8d67aa3666357dfa0e3",
+        "address_type": "taproot",
+        "cluster_id": "cluster-236df64a"
+      },
+      {
+        "address": "bc1p236df64a6ea89d8d67aa3666357dfa0e3",
+        "address_type": "taproot",
+        "cluster_id": "cluster-236df64a"
+      },
+      {
+        "address": "bc1p236df64a6ea89d8d67aa3666357dfa0e3",
+        "address_type": "taproot",
+        "cluster_id": "cluster-236df64a"
+      },
+      {
+        "address": "3236df64a6ea89d8d67aa3666357dfa0e3",
+        "address_type": "p2sh",
+        "cluster_id": "cluster-236df64a"
+      },
+      {
+        "address": "bc1p236df64a6ea89d8d67aa3666357dfa0e3",
+        "address_type": "taproot",
+        "cluster_id": "cluster-236df64a"
+      },
+      {
+        "address": "bc1p236df64a6ea89d8d67aa3666357dfa0e3",
+        "address_type": "taproot",
+        "cluster_id": "cluster-236df64a"
+      }
+    ],
+    "outputs": [
+      {
+        "address": "bc1q5e1cccfc63bfedab5779eae144ac40b48",
+        "address_type": "bech32",
+        "cluster_id": "cluster-5e1cccfc"
+      },
+      {
+        "address": "35e1cccfc63bfedab5779eae144ac40b48",
+        "address_type": "p2sh",
+        "cluster_id": "cluster-5e1cccfc"
+      },
+      {
+        "address": "bc1q5e1cccfc63bfedab5779eae144ac40b48",
+        "address_type": "bech32",
+        "cluster_id": "cluster-5e1cccfc"
+      },
+      {
+        "address": "bc1p5e1cccfc63bfedab5779eae144ac40b48",
+        "address_type": "taproot",
+        "cluster_id": "cluster-5e1cccfc"
+      },
+      {
+        "address": "35e1cccfc63bfedab5779eae144ac40b48",
+        "address_type": "p2sh",
+        "cluster_id": "cluster-5e1cccfc"
+      },
+      {
+        "address": "bc1q5e1cccfc63bfedab5779eae144ac40b48",
+        "address_type": "bech32",
+        "cluster_id": "cluster-5e1cccfc"
+      },
+      {
+        "address": "bc1p5e1cccfc63bfedab5779eae144ac40b48",
+        "address_type": "taproot",
+        "cluster_id": "cluster-5e1cccfc"
+      },
+      {
+        "address": "15e1cccfc63bfedab5779eae144ac40b48",
+        "address_type": "p2pkh",
+        "cluster_id": "cluster-5e1cccfc"
+      },
+      {
+        "address": "bc1q5e1cccfc63bfedab5779eae144ac40b48",
+        "address_type": "bech32",
+        "cluster_id": "cluster-5e1cccfc"
+      },
+      {
+        "address": "35e1cccfc63bfedab5779eae144ac40b48",
+        "address_type": "p2sh",
+        "cluster_id": "cluster-5e1cccfc"
+      },
+      {
+        "address": "bc1q5e1cccfc63bfedab5779eae144ac40b48",
+        "address_type": "bech32",
+        "cluster_id": "cluster-5e1cccfc"
+      },
+      {
+        "address": "bc1q5e1cccfc63bfedab5779eae144ac40b48",
+        "address_type": "bech32",
+        "cluster_id": "cluster-5e1cccfc"
+      }
+    ],
+    "input_value_sats": 4966614,
+    "output_value_sats": 4955457,
+    "fee_sats": 11157,
+    "scenario": "mixing-like",
+    "labels": [
+      "mixing_like",
+      "many_inputs",
+      "many_outputs"
+    ],
+    "metadata": {
+      "generator_seed": 42,
+      "generator_index": 39,
+      "input_count": 7,
+      "output_count": 12,
+      "output_values_sats": [
+        412955,
+        412955,
+        412955,
+        412955,
+        412955,
+        412955,
+        412955,
+        412955,
+        412955,
+        412954,
+        412954,
+        412954
+      ]
+    }
+  },
+  {
+    "txid": "c4f9f292f431f16d6eef97a0ca2a22e0d75e0a4e3049b0833d1e215580fcab0b",
+    "timestamp": "2024-01-01T06:40:00Z",
+    "block_height": 850040,
+    "inputs": [
+      {
+        "address": "35763607e9609be10c6a57632d79619dc4",
+        "address_type": "p2sh",
+        "cluster_id": "cluster-5763607e"
+      }
+    ],
+    "outputs": [
+      {
+        "address": "32d029b02c6de9f0c131b026553f9216c2",
+        "address_type": "p2sh",
+        "cluster_id": "cluster-2d029b02"
+      },
+      {
+        "address": "bc1p2d029b02c6de9f0c131b026553f9216c2",
+        "address_type": "taproot",
+        "cluster_id": "cluster-2d029b02"
+      }
+    ],
+    "input_value_sats": 4705303,
+    "output_value_sats": 4703737,
+    "fee_sats": 1566,
+    "scenario": "peeling-chain",
+    "labels": [
+      "peeling_chain",
+      "change_output"
+    ],
+    "metadata": {
+      "generator_seed": 42,
+      "generator_index": 40,
+      "input_count": 1,
+      "output_count": 2,
+      "output_values_sats": [
+        2351869,
+        2351868
+      ]
+    }
+  },
+  {
+    "txid": "35dc524aafa57fbae1ed25aeab1951919c1d33271fb4b92491fe0dbb10d9e40e",
+    "timestamp": "2024-01-01T06:50:00Z",
+    "block_height": 850041,
+    "inputs": [
+      {
+        "address": "bc1p0693e7fccba93ced45fc6f082a6b5e548",
+        "address_type": "taproot",
+        "cluster_id": "cluster-0693e7fc"
+      },
+      {
+        "address": "bc1q0693e7fccba93ced45fc6f082a6b5e548",
+        "address_type": "bech32",
+        "cluster_id": "cluster-0693e7fc"
+      },
+      {
+        "address": "bc1p0693e7fccba93ced45fc6f082a6b5e548",
+        "address_type": "taproot",
+        "cluster_id": "cluster-0693e7fc"
+      },
+      {
+        "address": "bc1p0693e7fccba93ced45fc6f082a6b5e548",
+        "address_type": "taproot",
+        "cluster_id": "cluster-0693e7fc"
+      },
+      {
+        "address": "10693e7fccba93ced45fc6f082a6b5e548",
+        "address_type": "p2pkh",
+        "cluster_id": "cluster-0693e7fc"
+      },
+      {
+        "address": "30693e7fccba93ced45fc6f082a6b5e548",
+        "address_type": "p2sh",
+        "cluster_id": "cluster-0693e7fc"
+      },
+      {
+        "address": "bc1p0693e7fccba93ced45fc6f082a6b5e548",
+        "address_type": "taproot",
+        "cluster_id": "cluster-0693e7fc"
+      },
+      {
+        "address": "bc1p0693e7fccba93ced45fc6f082a6b5e548",
+        "address_type": "taproot",
+        "cluster_id": "cluster-0693e7fc"
+      }
+    ],
+    "outputs": [
+      {
+        "address": "1b626ff350aa5502787ac3f0a1540dc29e",
+        "address_type": "p2pkh",
+        "cluster_id": "cluster-b626ff35"
+      }
+    ],
+    "input_value_sats": 98586,
+    "output_value_sats": 24209,
+    "fee_sats": 74377,
+    "scenario": "anomalous",
+    "labels": [
+      "anomalous",
+      "high_fee_rate"
+    ],
+    "metadata": {
+      "generator_seed": 42,
+      "generator_index": 41,
+      "input_count": 8,
+      "output_count": 1,
+      "output_values_sats": [
+        24209
+      ]
+    }
+  },
+  {
+    "txid": "88cf6c8f1ddad91e8d09571a00d0d414cf5576249f9131235601f9b03d3ff590",
+    "timestamp": "2024-01-01T07:00:00Z",
+    "block_height": 850042,
+    "inputs": [
+      {
+        "address": "bc1p61491eb8c790c9d9e75e74aafa7cf441b",
+        "address_type": "taproot",
+        "cluster_id": "cluster-61491eb8"
+      },
+      {
+        "address": "bc1p61491eb8c790c9d9e75e74aafa7cf441b",
+        "address_type": "taproot",
+        "cluster_id": "cluster-61491eb8"
+      },
+      {
+        "address": "361491eb8c790c9d9e75e74aafa7cf441b",
+        "address_type": "p2sh",
+        "cluster_id": "cluster-61491eb8"
+      },
+      {
+        "address": "bc1p61491eb8c790c9d9e75e74aafa7cf441b",
+        "address_type": "taproot",
+        "cluster_id": "cluster-61491eb8"
+      },
+      {
+        "address": "361491eb8c790c9d9e75e74aafa7cf441b",
+        "address_type": "p2sh",
+        "cluster_id": "cluster-61491eb8"
+      },
+      {
+        "address": "bc1q61491eb8c790c9d9e75e74aafa7cf441b",
+        "address_type": "bech32",
+        "cluster_id": "cluster-61491eb8"
+      },
+      {
+        "address": "bc1p61491eb8c790c9d9e75e74aafa7cf441b",
+        "address_type": "taproot",
+        "cluster_id": "cluster-61491eb8"
+      },
+      {
+        "address": "bc1p61491eb8c790c9d9e75e74aafa7cf441b",
+        "address_type": "taproot",
+        "cluster_id": "cluster-61491eb8"
+      },
+      {
+        "address": "161491eb8c790c9d9e75e74aafa7cf441b",
+        "address_type": "p2pkh",
+        "cluster_id": "cluster-61491eb8"
+      },
+      {
+        "address": "bc1p61491eb8c790c9d9e75e74aafa7cf441b",
+        "address_type": "taproot",
+        "cluster_id": "cluster-61491eb8"
+      },
+      {
+        "address": "bc1q61491eb8c790c9d9e75e74aafa7cf441b",
+        "address_type": "bech32",
+        "cluster_id": "cluster-61491eb8"
+      },
+      {
+        "address": "bc1p61491eb8c790c9d9e75e74aafa7cf441b",
+        "address_type": "taproot",
+        "cluster_id": "cluster-61491eb8"
+      }
+    ],
+    "outputs": [
+      {
+        "address": "35bdca93b565761e5b21ed87496fc466cd",
+        "address_type": "p2sh",
+        "cluster_id": "cluster-5bdca93b"
+      },
+      {
+        "address": "bc1p5bdca93b565761e5b21ed87496fc466cd",
+        "address_type": "taproot",
+        "cluster_id": "cluster-5bdca93b"
+      },
+      {
+        "address": "35bdca93b565761e5b21ed87496fc466cd",
+        "address_type": "p2sh",
+        "cluster_id": "cluster-5bdca93b"
+      },
+      {
+        "address": "15bdca93b565761e5b21ed87496fc466cd",
+        "address_type": "p2pkh",
+        "cluster_id": "cluster-5bdca93b"
+      },
+      {
+        "address": "bc1p5bdca93b565761e5b21ed87496fc466cd",
+        "address_type": "taproot",
+        "cluster_id": "cluster-5bdca93b"
+      }
+    ],
+    "input_value_sats": 3457658,
+    "output_value_sats": 3450766,
+    "fee_sats": 6892,
+    "scenario": "mixing-like",
+    "labels": [
+      "mixing_like",
+      "many_inputs",
+      "many_outputs"
+    ],
+    "metadata": {
+      "generator_seed": 42,
+      "generator_index": 42,
+      "input_count": 12,
+      "output_count": 5,
+      "output_values_sats": [
+        690154,
+        690153,
+        690153,
+        690153,
+        690153
+      ]
+    }
+  },
+  {
+    "txid": "e947eeca253c2de762c35eca81595119ee114f0eb4ee3780936aaf537be9452a",
+    "timestamp": "2024-01-01T07:10:00Z",
+    "block_height": 850043,
+    "inputs": [
+      {
+        "address": "bc1p5769534ac28f420af1cb2cc437476e67f",
+        "address_type": "taproot",
+        "cluster_id": "cluster-5769534a"
+      }
+    ],
+    "outputs": [
+      {
+        "address": "3677b3f372de2638ac571c589185f6643f",
+        "address_type": "p2sh",
+        "cluster_id": "cluster-677b3f37"
+      },
+      {
+        "address": "1677b3f372de2638ac571c589185f6643f",
+        "address_type": "p2pkh",
+        "cluster_id": "cluster-677b3f37"
+      },
+      {
+        "address": "bc1q677b3f372de2638ac571c589185f6643f",
+        "address_type": "bech32",
+        "cluster_id": "cluster-677b3f37"
+      }
+    ],
+    "input_value_sats": 1245930,
+    "output_value_sats": 1238329,
+    "fee_sats": 7601,
+    "scenario": "normal",
+    "labels": [
+      "normal"
+    ],
+    "metadata": {
+      "generator_seed": 42,
+      "generator_index": 43,
+      "input_count": 1,
+      "output_count": 3,
+      "output_values_sats": [
+        412777,
+        412776,
+        412776
+      ]
+    }
+  },
+  {
+    "txid": "93fb3958e8b0f4bdd69dcdf8a7e001fd8f220e60a1438fc77a02a03e87b42542",
+    "timestamp": "2024-01-01T07:20:00Z",
+    "block_height": 850044,
+    "inputs": [
+      {
+        "address": "bc1qa65b9ea627a2bf14f814f9ee0c7de335b",
+        "address_type": "bech32",
+        "cluster_id": "cluster-a65b9ea6"
+      },
+      {
+        "address": "bc1pa65b9ea627a2bf14f814f9ee0c7de335b",
+        "address_type": "taproot",
+        "cluster_id": "cluster-a65b9ea6"
+      },
+      {
+        "address": "bc1qa65b9ea627a2bf14f814f9ee0c7de335b",
+        "address_type": "bech32",
+        "cluster_id": "cluster-a65b9ea6"
+      },
+      {
+        "address": "bc1pa65b9ea627a2bf14f814f9ee0c7de335b",
+        "address_type": "taproot",
+        "cluster_id": "cluster-a65b9ea6"
+      },
+      {
+        "address": "bc1qa65b9ea627a2bf14f814f9ee0c7de335b",
+        "address_type": "bech32",
+        "cluster_id": "cluster-a65b9ea6"
+      },
+      {
+        "address": "1a65b9ea627a2bf14f814f9ee0c7de335b",
+        "address_type": "p2pkh",
+        "cluster_id": "cluster-a65b9ea6"
+      },
+      {
+        "address": "bc1pa65b9ea627a2bf14f814f9ee0c7de335b",
+        "address_type": "taproot",
+        "cluster_id": "cluster-a65b9ea6"
+      },
+      {
+        "address": "1a65b9ea627a2bf14f814f9ee0c7de335b",
+        "address_type": "p2pkh",
+        "cluster_id": "cluster-a65b9ea6"
+      },
+      {
+        "address": "1a65b9ea627a2bf14f814f9ee0c7de335b",
+        "address_type": "p2pkh",
+        "cluster_id": "cluster-a65b9ea6"
+      },
+      {
+        "address": "bc1qa65b9ea627a2bf14f814f9ee0c7de335b",
+        "address_type": "bech32",
+        "cluster_id": "cluster-a65b9ea6"
+      }
+    ],
+    "outputs": [
+      {
+        "address": "3174acedd5d6d5c9bae7398bc88e5b9f4e",
+        "address_type": "p2sh",
+        "cluster_id": "cluster-174acedd"
+      },
+      {
+        "address": "1174acedd5d6d5c9bae7398bc88e5b9f4e",
+        "address_type": "p2pkh",
+        "cluster_id": "cluster-174acedd"
+      },
+      {
+        "address": "1174acedd5d6d5c9bae7398bc88e5b9f4e",
+        "address_type": "p2pkh",
+        "cluster_id": "cluster-174acedd"
+      },
+      {
+        "address": "1174acedd5d6d5c9bae7398bc88e5b9f4e",
+        "address_type": "p2pkh",
+        "cluster_id": "cluster-174acedd"
+      },
+      {
+        "address": "3174acedd5d6d5c9bae7398bc88e5b9f4e",
+        "address_type": "p2sh",
+        "cluster_id": "cluster-174acedd"
+      },
+      {
+        "address": "3174acedd5d6d5c9bae7398bc88e5b9f4e",
+        "address_type": "p2sh",
+        "cluster_id": "cluster-174acedd"
+      },
+      {
+        "address": "1174acedd5d6d5c9bae7398bc88e5b9f4e",
+        "address_type": "p2pkh",
+        "cluster_id": "cluster-174acedd"
+      },
+      {
+        "address": "3174acedd5d6d5c9bae7398bc88e5b9f4e",
+        "address_type": "p2sh",
+        "cluster_id": "cluster-174acedd"
+      }
+    ],
+    "input_value_sats": 4321649,
+    "output_value_sats": 4314294,
+    "fee_sats": 7355,
+    "scenario": "mixing-like",
+    "labels": [
+      "mixing_like",
+      "many_inputs",
+      "many_outputs"
+    ],
+    "metadata": {
+      "generator_seed": 42,
+      "generator_index": 44,
+      "input_count": 10,
+      "output_count": 8,
+      "output_values_sats": [
+        539287,
+        539287,
+        539287,
+        539287,
+        539287,
+        539287,
+        539286,
+        539286
+      ]
+    }
+  },
+  {
+    "txid": "f6b513bb6942430d370933d5b0e6f88bc42a6f435fff142e82c729c7f772722a",
+    "timestamp": "2024-01-01T07:30:00Z",
+    "block_height": 850045,
+    "inputs": [
+      {
+        "address": "35e0e7823a722e3804ee09728d2457a19e",
+        "address_type": "p2sh",
+        "cluster_id": "cluster-5e0e7823"
+      },
+      {
+        "address": "bc1p5e0e7823a722e3804ee09728d2457a19e",
+        "address_type": "taproot",
+        "cluster_id": "cluster-5e0e7823"
+      },
+      {
+        "address": "bc1q5e0e7823a722e3804ee09728d2457a19e",
+        "address_type": "bech32",
+        "cluster_id": "cluster-5e0e7823"
+      },
+      {
+        "address": "bc1q5e0e7823a722e3804ee09728d2457a19e",
+        "address_type": "bech32",
+        "cluster_id": "cluster-5e0e7823"
+      }
+    ],
+    "outputs": [
+      {
+        "address": "3e6678cd8743667908d4531f04dc05a2e3",
+        "address_type": "p2sh",
+        "cluster_id": "cluster-e6678cd8"
+      },
+      {
+        "address": "1e6678cd8743667908d4531f04dc05a2e3",
+        "address_type": "p2pkh",
+        "cluster_id": "cluster-e6678cd8"
+      }
+    ],
+    "input_value_sats": 98866,
+    "output_value_sats": 63873,
+    "fee_sats": 34993,
+    "scenario": "anomalous",
+    "labels": [
+      "anomalous",
+      "high_fee_rate"
+    ],
+    "metadata": {
+      "generator_seed": 42,
+      "generator_index": 45,
+      "input_count": 4,
+      "output_count": 2,
+      "output_values_sats": [
+        31937,
+        31936
+      ]
+    }
+  },
+  {
+    "txid": "82f9b2fedc2fe8f6253b4b8d9b9ba69849936f611e834fe52629dca56358f397",
+    "timestamp": "2024-01-01T07:40:00Z",
+    "block_height": 850046,
+    "inputs": [
+      {
+        "address": "bc1q77d527897d6e6c1bb192074d6f5b31941",
+        "address_type": "bech32",
+        "cluster_id": "cluster-77d52789"
+      },
+      {
+        "address": "bc1p77d527897d6e6c1bb192074d6f5b31941",
+        "address_type": "taproot",
+        "cluster_id": "cluster-77d52789"
+      },
+      {
+        "address": "bc1p77d527897d6e6c1bb192074d6f5b31941",
+        "address_type": "taproot",
+        "cluster_id": "cluster-77d52789"
+      },
+      {
+        "address": "377d527897d6e6c1bb192074d6f5b31941",
+        "address_type": "p2sh",
+        "cluster_id": "cluster-77d52789"
+      },
+      {
+        "address": "177d527897d6e6c1bb192074d6f5b31941",
+        "address_type": "p2pkh",
+        "cluster_id": "cluster-77d52789"
+      }
+    ],
+    "outputs": [
+      {
+        "address": "33bc471c5a89e4678543bf8a5eac01a173",
+        "address_type": "p2sh",
+        "cluster_id": "cluster-3bc471c5"
+      }
+    ],
+    "input_value_sats": 81289,
+    "output_value_sats": 57924,
+    "fee_sats": 23365,
+    "scenario": "anomalous",
+    "labels": [
+      "anomalous",
+      "high_fee_rate"
+    ],
+    "metadata": {
+      "generator_seed": 42,
+      "generator_index": 46,
+      "input_count": 5,
+      "output_count": 1,
+      "output_values_sats": [
+        57924
+      ]
+    }
+  },
+  {
+    "txid": "701152e986d421caa1edf2dfa34dcbf219fa11bec562d76fc507abea32e3e77b",
+    "timestamp": "2024-01-01T07:50:00Z",
+    "block_height": 850047,
+    "inputs": [
+      {
+        "address": "154e98c5299fe18b65c551833abf255516",
+        "address_type": "p2pkh",
+        "cluster_id": "cluster-54e98c52"
+      },
+      {
+        "address": "bc1q54e98c5299fe18b65c551833abf255516",
+        "address_type": "bech32",
+        "cluster_id": "cluster-54e98c52"
+      }
+    ],
+    "outputs": [
+      {
+        "address": "bc1p8fb024a28cbb78134f4d04c4ba10f027f",
+        "address_type": "taproot",
+        "cluster_id": "cluster-8fb024a2"
+      },
+      {
+        "address": "bc1q8fb024a28cbb78134f4d04c4ba10f027f",
+        "address_type": "bech32",
+        "cluster_id": "cluster-8fb024a2"
+      }
+    ],
+    "input_value_sats": 6784373,
+    "output_value_sats": 6779237,
+    "fee_sats": 5136,
+    "scenario": "normal",
+    "labels": [
+      "normal"
+    ],
+    "metadata": {
+      "generator_seed": 42,
+      "generator_index": 47,
+      "input_count": 2,
+      "output_count": 2,
+      "output_values_sats": [
+        3389619,
+        3389618
+      ]
+    }
+  },
+  {
+    "txid": "a655bf9e47f392df6d631f295df8a5e22a05020223547e149ffaf02406831b78",
+    "timestamp": "2024-01-01T08:00:00Z",
+    "block_height": 850048,
+    "inputs": [
+      {
+        "address": "bc1pf1ffc99ca12cd3b480a9efc81421fc6f0",
+        "address_type": "taproot",
+        "cluster_id": "cluster-f1ffc99c"
+      },
+      {
+        "address": "1f1ffc99ca12cd3b480a9efc81421fc6f0",
+        "address_type": "p2pkh",
+        "cluster_id": "cluster-f1ffc99c"
+      }
+    ],
+    "outputs": [
+      {
+        "address": "bc1p5c5e37a2862ee1bb67c5058dc5b139b3b",
+        "address_type": "taproot",
+        "cluster_id": "cluster-5c5e37a2"
+      },
+      {
+        "address": "bc1q5c5e37a2862ee1bb67c5058dc5b139b3b",
+        "address_type": "bech32",
+        "cluster_id": "cluster-5c5e37a2"
+      }
+    ],
+    "input_value_sats": 7230697,
+    "output_value_sats": 7226756,
+    "fee_sats": 3941,
+    "scenario": "normal",
+    "labels": [
+      "normal"
+    ],
+    "metadata": {
+      "generator_seed": 42,
+      "generator_index": 48,
+      "input_count": 2,
+      "output_count": 2,
+      "output_values_sats": [
+        3613378,
+        3613378
+      ]
+    }
+  },
+  {
+    "txid": "f38cf03752af524a0a19945b7eddd4af31baa930efca79815d6ad2dbbb6f0247",
+    "timestamp": "2024-01-01T08:10:00Z",
+    "block_height": 850049,
+    "inputs": [
+      {
+        "address": "bc1qdfffc9a1dc8441c8051190e22213c6df1",
+        "address_type": "bech32",
+        "cluster_id": "cluster-dfffc9a1"
+      },
+      {
+        "address": "bc1pdfffc9a1dc8441c8051190e22213c6df1",
+        "address_type": "taproot",
+        "cluster_id": "cluster-dfffc9a1"
+      },
+      {
+        "address": "bc1pdfffc9a1dc8441c8051190e22213c6df1",
+        "address_type": "taproot",
+        "cluster_id": "cluster-dfffc9a1"
+      },
+      {
+        "address": "bc1pdfffc9a1dc8441c8051190e22213c6df1",
+        "address_type": "taproot",
+        "cluster_id": "cluster-dfffc9a1"
+      },
+      {
+        "address": "bc1qdfffc9a1dc8441c8051190e22213c6df1",
+        "address_type": "bech32",
+        "cluster_id": "cluster-dfffc9a1"
+      },
+      {
+        "address": "bc1qdfffc9a1dc8441c8051190e22213c6df1",
+        "address_type": "bech32",
+        "cluster_id": "cluster-dfffc9a1"
+      },
+      {
+        "address": "3dfffc9a1dc8441c8051190e22213c6df1",
+        "address_type": "p2sh",
+        "cluster_id": "cluster-dfffc9a1"
+      }
+    ],
+    "outputs": [
+      {
+        "address": "149532b2d2ee85065cc66919073e12cd74",
+        "address_type": "p2pkh",
+        "cluster_id": "cluster-49532b2d"
+      },
+      {
+        "address": "bc1q49532b2d2ee85065cc66919073e12cd74",
+        "address_type": "bech32",
+        "cluster_id": "cluster-49532b2d"
+      },
+      {
+        "address": "bc1p49532b2d2ee85065cc66919073e12cd74",
+        "address_type": "taproot",
+        "cluster_id": "cluster-49532b2d"
+      },
+      {
+        "address": "349532b2d2ee85065cc66919073e12cd74",
+        "address_type": "p2sh",
+        "cluster_id": "cluster-49532b2d"
+      },
+      {
+        "address": "bc1p49532b2d2ee85065cc66919073e12cd74",
+        "address_type": "taproot",
+        "cluster_id": "cluster-49532b2d"
+      },
+      {
+        "address": "bc1p49532b2d2ee85065cc66919073e12cd74",
+        "address_type": "taproot",
+        "cluster_id": "cluster-49532b2d"
+      },
+      {
+        "address": "bc1q49532b2d2ee85065cc66919073e12cd74",
+        "address_type": "bech32",
+        "cluster_id": "cluster-49532b2d"
+      },
+      {
+        "address": "149532b2d2ee85065cc66919073e12cd74",
+        "address_type": "p2pkh",
+        "cluster_id": "cluster-49532b2d"
+      },
+      {
+        "address": "bc1p49532b2d2ee85065cc66919073e12cd74",
+        "address_type": "taproot",
+        "cluster_id": "cluster-49532b2d"
+      },
+      {
+        "address": "bc1q49532b2d2ee85065cc66919073e12cd74",
+        "address_type": "bech32",
+        "cluster_id": "cluster-49532b2d"
+      },
+      {
+        "address": "349532b2d2ee85065cc66919073e12cd74",
+        "address_type": "p2sh",
+        "cluster_id": "cluster-49532b2d"
+      }
+    ],
+    "input_value_sats": 1988091,
+    "output_value_sats": 1977543,
+    "fee_sats": 10548,
+    "scenario": "mixing-like",
+    "labels": [
+      "mixing_like",
+      "many_inputs",
+      "many_outputs"
+    ],
+    "metadata": {
+      "generator_seed": 42,
+      "generator_index": 49,
+      "input_count": 7,
+      "output_count": 11,
+      "output_values_sats": [
+        179777,
+        179777,
+        179777,
+        179777,
+        179777,
+        179777,
+        179777,
+        179776,
+        179776,
+        179776,
+        179776
+      ]
+    }
+  },
+  {
+    "txid": "4226658978879429fdee5a9ff025332560272358096a1308ba0877429b89c164",
+    "timestamp": "2024-01-01T08:20:00Z",
+    "block_height": 850050,
+    "inputs": [
+      {
+        "address": "bc1qd1abdf563698ced22006f3286340ceb93",
+        "address_type": "bech32",
+        "cluster_id": "cluster-d1abdf56"
+      },
+      {
+        "address": "bc1qd1abdf563698ced22006f3286340ceb93",
+        "address_type": "bech32",
+        "cluster_id": "cluster-d1abdf56"
+      },
+      {
+        "address": "1d1abdf563698ced22006f3286340ceb93",
+        "address_type": "p2pkh",
+        "cluster_id": "cluster-d1abdf56"
+      },
+      {
+        "address": "3d1abdf563698ced22006f3286340ceb93",
+        "address_type": "p2sh",
+        "cluster_id": "cluster-d1abdf56"
+      },
+      {
+        "address": "1d1abdf563698ced22006f3286340ceb93",
+        "address_type": "p2pkh",
+        "cluster_id": "cluster-d1abdf56"
+      },
+      {
+        "address": "3d1abdf563698ced22006f3286340ceb93",
+        "address_type": "p2sh",
+        "cluster_id": "cluster-d1abdf56"
+      },
+      {
+        "address": "bc1pd1abdf563698ced22006f3286340ceb93",
+        "address_type": "taproot",
+        "cluster_id": "cluster-d1abdf56"
+      },
+      {
+        "address": "bc1pd1abdf563698ced22006f3286340ceb93",
+        "address_type": "taproot",
+        "cluster_id": "cluster-d1abdf56"
+      }
+    ],
+    "outputs": [
+      {
+        "address": "3074cca76467b55e9fad74226a53db13de",
+        "address_type": "p2sh",
+        "cluster_id": "cluster-074cca76"
+      },
+      {
+        "address": "bc1p074cca76467b55e9fad74226a53db13de",
+        "address_type": "taproot",
+        "cluster_id": "cluster-074cca76"
+      },
+      {
+        "address": "bc1p074cca76467b55e9fad74226a53db13de",
+        "address_type": "taproot",
+        "cluster_id": "cluster-074cca76"
+      },
+      {
+        "address": "bc1p074cca76467b55e9fad74226a53db13de",
+        "address_type": "taproot",
+        "cluster_id": "cluster-074cca76"
+      },
+      {
+        "address": "1074cca76467b55e9fad74226a53db13de",
+        "address_type": "p2pkh",
+        "cluster_id": "cluster-074cca76"
+      },
+      {
+        "address": "1074cca76467b55e9fad74226a53db13de",
+        "address_type": "p2pkh",
+        "cluster_id": "cluster-074cca76"
+      },
+      {
+        "address": "bc1q074cca76467b55e9fad74226a53db13de",
+        "address_type": "bech32",
+        "cluster_id": "cluster-074cca76"
+      },
+      {
+        "address": "3074cca76467b55e9fad74226a53db13de",
+        "address_type": "p2sh",
+        "cluster_id": "cluster-074cca76"
+      },
+      {
+        "address": "bc1p074cca76467b55e9fad74226a53db13de",
+        "address_type": "taproot",
+        "cluster_id": "cluster-074cca76"
+      },
+      {
+        "address": "3074cca76467b55e9fad74226a53db13de",
+        "address_type": "p2sh",
+        "cluster_id": "cluster-074cca76"
+      }
+    ],
+    "input_value_sats": 2674793,
+    "output_value_sats": 2667217,
+    "fee_sats": 7576,
+    "scenario": "mixing-like",
+    "labels": [
+      "mixing_like",
+      "many_inputs",
+      "many_outputs"
+    ],
+    "metadata": {
+      "generator_seed": 42,
+      "generator_index": 50,
+      "input_count": 8,
+      "output_count": 10,
+      "output_values_sats": [
+        266722,
+        266722,
+        266722,
+        266722,
+        266722,
+        266722,
+        266722,
+        266721,
+        266721,
+        266721
+      ]
+    }
+  }
+]

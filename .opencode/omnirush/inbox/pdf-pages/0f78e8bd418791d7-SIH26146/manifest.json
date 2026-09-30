@@ -1,0 +1,14 @@
+{
+  "version": 3,
+  "sha256": "0f78e8bd418791d763130a763373ace83ec6552d895661873dc2c6bb2ca9df66",
+  "filename": "SIH26146.pdf",
+  "pageCount": 2,
+  "textPages": 2,
+  "textBudgetExhausted": false,
+  "pagesWithoutText": [
+    1,
+    2
+  ],
+  "renderedPages": [],
+  "renderBudgetExhausted": false
+}
